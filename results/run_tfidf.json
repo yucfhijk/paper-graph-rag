@@ -1,0 +1,2637 @@
+{
+ "K01": {
+  "query": "GraCoRe Benchmarking Graph Comprehension Complex Reasoning",
+  "gold": [
+   "https://openalex.org/W4400376199"
+  ],
+  "gold_titles": [
+   "GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models"
+  ],
+  "top10": [
+   "https://openalex.org/W4400376199",
+   "https://openalex.org/W4404294063",
+   "https://openalex.org/W4385774107",
+   "https://openalex.org/W4400341288",
+   "https://openalex.org/W4400222836",
+   "https://openalex.org/W4386080654",
+   "https://openalex.org/W4404688293",
+   "https://openalex.org/W4408633416",
+   "https://openalex.org/W4387799827",
+   "https://openalex.org/W7131634290"
+  ],
+  "top10_titles": [
+   "GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models",
+   "LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration",
+   "Cumulative Reasoning with Large Language Models",
+   "Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs",
+   "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph",
+   "GraphReason: Enhancing Reasoning Capabilities of Large Language Models through A Graph-Based Verification Approach",
+   "Leveraging Non-Parametric Reasoning With Large Language Models for Enhanced Knowledge Graph Completion",
+   "Knowledge Graph-Based Reasoning in Large Language Models",
+   "KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models",
+   "DualGraphRAG: A Dual-View Graph-Enhanced Retrieval-Augmented Generation Framework for Reliable and Efficient Question Answering"
+  ]
+ },
+ "K02": {
+  "query": "Knowledge graph thought enhanced LLM framework",
+  "gold": [
+   "https://openalex.org/W4406098046"
+  ],
+  "gold_titles": [
+   "Knowledge graph–based thought: a knowledge graph–enhanced LLM framework for pan-cancer question answering"
+  ],
+  "top10": [
+   "https://openalex.org/W4406098046",
+   "https://openalex.org/W4402813529",
+   "https://openalex.org/W4394737070",
+   "https://openalex.org/W4413126631",
+   "https://openalex.org/W4412999927",
+   "https://openalex.org/W4386044294",
+   "https://openalex.org/W4410764243",
+   "https://openalex.org/W4404688293",
+   "https://openalex.org/W7133118333",
+   "https://openalex.org/W7161734552"
+  ],
+  "top10_titles": [
+   "Knowledge graph–based thought: a knowledge graph–enhanced LLM framework for pan-cancer question answering",
+   "Large‐language‐model empowered 3D dose prediction for intensity‐modulated radiotherapy",
+   "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+   "PowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization With Large Language Models",
+   "SG-RAG MOT: SubGraph Retrieval Augmented Generation with Merging and Ordering Triplets for Knowledge Graph Multi-Hop Question Answering",
+   "Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought",
+   "DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation",
+   "Leveraging Non-Parametric Reasoning With Large Language Models for Enhanced Knowledge Graph Completion",
+   "Research on graph-retrieval augmented generation based on historical text knowledge graphs",
+   "S2Aligner: Pair-Efficient and Transferable Pre-Training for Sparse Text-Attributed Graphs"
+  ]
+ },
+ "K03": {
+  "query": "Neural scaling deep chemical models",
+  "gold": [
+   "https://openalex.org/W4387874094"
+  ],
+  "gold_titles": [
+   "Neural scaling of deep chemical models"
+  ],
+  "top10": [
+   "https://openalex.org/W4387874094",
+   "https://openalex.org/W7164842051",
+   "https://openalex.org/W4403572755",
+   "https://openalex.org/W4281619372",
+   "https://openalex.org/W4311179098",
+   "https://openalex.org/W4389475249",
+   "https://openalex.org/W4415231386",
+   "https://openalex.org/W4322576830",
+   "https://openalex.org/W4391291188",
+   "https://openalex.org/W4401722919"
+  ],
+  "top10_titles": [
+   "Neural scaling of deep chemical models",
+   "A survey of models composed of graph neural networks and large language models for molecular science",
+   "GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs",
+   "Language models can learn complex molecular distributions",
+   "Illuminating protein space with a programmable generative model",
+   "GPT-Assisted Learning of Structure–Property Relationships by Graph Neural Networks: Application to Rare-Earth-Doped Phosphors",
+   "Deep learning, transformers and graph neural networks: a linear algebra perspective",
+   "Deep Tabular Data Modeling With Dual-Route Structure-Adaptive Graph Networks",
+   "EquiPNAS: improved protein–nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks",
+   "Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning"
+  ]
+ },
+ "K04": {
+  "query": "S2Aligner Pair-Efficient Transferable Pre-Training Sparse Text-Attributed",
+  "gold": [
+   "https://openalex.org/W7161734552"
+  ],
+  "gold_titles": [
+   "S2Aligner: Pair-Efficient and Transferable Pre-Training for Sparse Text-Attributed Graphs"
+  ],
+  "top10": [
+   "https://openalex.org/W7161734552",
+   "https://openalex.org/W4402346099",
+   "https://openalex.org/W4307477897",
+   "https://openalex.org/W4365455552",
+   "https://openalex.org/W4416432883",
+   "https://openalex.org/W7160543524",
+   "https://openalex.org/W7214741188",
+   "https://openalex.org/W4386556102",
+   "https://openalex.org/W4392089947",
+   "https://openalex.org/W4417127529"
+  ],
+  "top10_titles": [
+   "S2Aligner: Pair-Efficient and Transferable Pre-Training for Sparse Text-Attributed Graphs",
+   "STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs",
+   "Learning on Large-scale Text-attributed Graphs via Variational Inference",
+   "Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules",
+   "G2rammar: Bilingual Grammar Modeling for Enhanced Text-attributed Graph Learning",
+   "STAGE: LLM-Driven Semantic and Topological Augmented Graph Embedding for Text-Attributed Graphs",
+   "Transfer Learning for Edge Classification on Dynamic Text-Attributed Graphs",
+   "Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs",
+   "UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs",
+   "Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment"
+  ]
+ },
+ "K05": {
+  "query": "Graph retrieval augmented large language models",
+  "gold": [
+   "https://openalex.org/W4413472998"
+  ],
+  "gold_titles": [
+   "Graph retrieval augmented large language models for facial phenotype associated rare genetic disease"
+  ],
+  "top10": [
+   "https://openalex.org/W4413472998",
+   "https://openalex.org/W4410086438",
+   "https://openalex.org/W4416023945",
+   "https://openalex.org/W4405288416",
+   "https://openalex.org/W4399115692",
+   "https://openalex.org/W4400718844",
+   "https://openalex.org/W4412923497",
+   "https://openalex.org/W4417097190",
+   "https://openalex.org/W4415061514",
+   "https://openalex.org/W4406139250"
+  ],
+  "top10_titles": [
+   "Graph retrieval augmented large language models for facial phenotype associated rare genetic disease",
+   "TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking",
+   "Plan of Knowledge: Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering",
+   "Integrating Graph Retrieval-Augmented Generation With Large Language Models for Supplier Discovery",
+   "GRAG: Graph Retrieval-Augmented Generation",
+   "Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation",
+   "Multilingual graph retrieval-augmented generation for product design using design knowledge",
+   "When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation",
+   "DEMENTIA-PLAN: An Agent-Based Framework for Multi-Knowledge Graph Retrieval-Augmented Generation in Dementia Care",
+   "Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation"
+  ]
+ },
+ "K06": {
+  "query": "Deep Tabular Data Modeling Dual-Route Structure-Adaptive",
+  "gold": [
+   "https://openalex.org/W4322576830"
+  ],
+  "gold_titles": [
+   "Deep Tabular Data Modeling With Dual-Route Structure-Adaptive Graph Networks"
+  ],
+  "top10": [
+   "https://openalex.org/W4322576830",
+   "https://openalex.org/W4382119366",
+   "https://openalex.org/W4321393046",
+   "https://openalex.org/W4416833779",
+   "https://openalex.org/W4400064782",
+   "https://openalex.org/W4321021687",
+   "https://openalex.org/W4404347859",
+   "https://openalex.org/W7155038183",
+   "https://openalex.org/W4407719576",
+   "https://openalex.org/W7104820829"
+  ],
+  "top10_titles": [
+   "Deep Tabular Data Modeling With Dual-Route Structure-Adaptive Graph Networks",
+   "Relational Temporal Graph Reasoning for Dual-task Dialogue Language Understanding",
+   "Tensor Networks Meet Neural Networks: A Survey and Future Perspectives",
+   "Bridging dual knowledge graphs for multi-hop question answering in construction safety",
+   "DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph",
+   "Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation",
+   "Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs",
+   "DuConTE: Dual-Granularity Text Encoder with Topology-Constrained Attention for Text-attributed Graphs",
+   "Model Generalization on Text Attribute Graphs: Principles with Large Language Models",
+   "Multi-Scale Feature Fusion and Graph Neural Network Integration for Text Classification with Large Language Models"
+  ]
+ },
+ "K07": {
+  "query": "G-Retriever Retrieval-Augmented Generation Textual Graph Understanding",
+  "gold": [
+   "https://openalex.org/W4391799277"
+  ],
+  "gold_titles": [
+   "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering"
+  ],
+  "top10": [
+   "https://openalex.org/W4391799277",
+   "https://openalex.org/W4405792520",
+   "https://openalex.org/W4406031095",
+   "https://openalex.org/W4392617522",
+   "https://openalex.org/W4399115692",
+   "https://openalex.org/W4407423017",
+   "https://openalex.org/W4416354085",
+   "https://openalex.org/W4405713885",
+   "https://openalex.org/W4415187156",
+   "https://openalex.org/W4413737842"
+  ],
+  "top10_titles": [
+   "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering",
+   "GeAR: Graph-enhanced Agent for Retrieval-augmented Generation",
+   "Retrieval-Augmented Generation with Graphs (GraphRAG)",
+   "GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability",
+   "GRAG: Graph Retrieval-Augmented Generation",
+   "Knowledge Graph-Guided Retrieval Augmented Generation",
+   "Knowledge graph-extended retrieval augmented generation for question answering",
+   "SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation",
+   "Neural Graph Matching Improves Retrieval Augmented Generation in Molecular Machine Learning",
+   "AI-augmented systems engineering: conceptual application of retrieval-augmented generation for model-based systems engineering graph"
+  ]
+ },
+ "K08": {
+  "query": "Fast Virtual Stenting Thoracic Endovascular Aortic",
+  "gold": [
+   "https://openalex.org/W4407566321"
+  ],
+  "gold_titles": [
+   "Fast Virtual Stenting for Thoracic Endovascular Aortic Repair of Aortic Dissection Using Graph Deep Learning"
+  ],
+  "top10": [
+   "https://openalex.org/W4407566321",
+   "https://openalex.org/W4403347014",
+   "https://openalex.org/W4411420530",
+   "https://openalex.org/W4413126631",
+   "https://openalex.org/W4403749687",
+   "https://openalex.org/W4402915290",
+   "https://openalex.org/W4377865170",
+   "https://openalex.org/W4392222699",
+   "https://openalex.org/W4387561375",
+   "https://openalex.org/W4413110846"
+  ],
+  "top10_titles": [
+   "Fast Virtual Stenting for Thoracic Endovascular Aortic Repair of Aortic Dissection Using Graph Deep Learning",
+   "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+   "Multimedia Graph Codes for Fast and Semantic Retrieval-Augmented Generation",
+   "PowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization With Large Language Models",
+   "A Retrieval-Augmented Generation Approach for Data-Driven Energy Infrastructure Digital Twins",
+   "Large Language Models on Graphs: A Comprehensive Survey",
+   "LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities",
+   "Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models",
+   "Making Large Language Models Perform Better in Knowledge Graph Completion",
+   "GS-DTI: a graph-structure-aware framework leveraging large language models for drug–target interaction prediction"
+  ]
+ },
+ "K09": {
+  "query": "Robustness Text-Attributed Graph Learning Insights Trade-offs",
+  "gold": [
+   "https://openalex.org/W4415962875"
+  ],
+  "gold_titles": [
+   "Robustness in Text-Attributed Graph Learning: Insights, Trade-offs, and New Defenses"
+  ],
+  "top10": [
+   "https://openalex.org/W4415962875",
+   "https://openalex.org/W7204579856",
+   "https://openalex.org/W7154447653",
+   "https://openalex.org/W4391987950",
+   "https://openalex.org/W4417127529",
+   "https://openalex.org/W4416432883",
+   "https://openalex.org/W7166888040",
+   "https://openalex.org/W4413397855",
+   "https://openalex.org/W4405354776",
+   "https://openalex.org/W4416780429"
+  ],
+  "top10_titles": [
+   "Robustness in Text-Attributed Graph Learning: Insights, Trade-offs, and New Defenses",
+   "Rethinking Message Passing as Retrieval for Text-Attributed Graph Learning",
+   "Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning",
+   "Distilling Large Language Models for Text-Attributed Graph Learning",
+   "Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment",
+   "G2rammar: Bilingual Grammar Modeling for Enhanced Text-attributed Graph Learning",
+   "TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning",
+   "A survey on autonomous navigation for mobile robots: From traditional techniques to deep learning and large language models",
+   "Multi-Scale Heterogeneous Text-Attributed Graph Datasets From Diverse Domains",
+   "TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs"
+  ]
+ },
+ "K10": {
+  "query": "Nanjing Yunjin intelligent question-answering system knowledge",
+  "gold": [
+   "https://openalex.org/W4394619840"
+  ],
+  "gold_titles": [
+   "Nanjing Yunjin intelligent question-answering system based on knowledge graphs and retrieval augmented generation technology"
+  ],
+  "top10": [
+   "https://openalex.org/W4403484624",
+   "https://openalex.org/W4410572114",
+   "https://openalex.org/W4394619840",
+   "https://openalex.org/W4221025926",
+   "https://openalex.org/W4224321574",
+   "https://openalex.org/W4390602292",
+   "https://openalex.org/W4406098046",
+   "https://openalex.org/W4310744116",
+   "https://openalex.org/W4407761215",
+   "https://openalex.org/W4396600459"
+  ],
+  "top10_titles": [
+   "Intelligent question answering for water conservancy project inspection driven by knowledge graph and large language model collaboration",
+   "Knowledge graph-based intelligent question answering system for ancient Chinese costume heritage",
+   "Nanjing Yunjin intelligent question-answering system based on knowledge graphs and retrieval augmented generation technology",
+   "Towards Knowledge-Based Tourism Chinese Question Answering System",
+   "Semantic Structure based Query Graph Prediction for Question Answering over Knowledge Graph",
+   "Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs",
+   "Knowledge graph–based thought: a knowledge graph–enhanced LLM framework for pan-cancer question answering",
+   "UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph",
+   "Building an intelligent diabetes Q&A system with knowledge graphs and large language models",
+   "Multi-hop Question Answering over Knowledge Graphs using Large Language Models"
+  ]
+ },
+ "K11": {
+  "query": "LLM-driven Knowledge Distillation Dynamic Text-Attributed Graphs",
+  "gold": [
+   "https://openalex.org/W4407687339"
+  ],
+  "gold_titles": [
+   "LLM-driven Knowledge Distillation for Dynamic Text-Attributed Graphs"
+  ],
+  "top10": [
+   "https://openalex.org/W4407687339",
+   "https://openalex.org/W7117164823",
+   "https://openalex.org/W4416545199",
+   "https://openalex.org/W7214741188",
+   "https://openalex.org/W4399836803",
+   "https://openalex.org/W7160543524",
+   "https://openalex.org/W4390961154",
+   "https://openalex.org/W4415344088",
+   "https://openalex.org/W7170826699",
+   "https://openalex.org/W4391710079"
+  ],
+  "top10_titles": [
+   "LLM-driven Knowledge Distillation for Dynamic Text-Attributed Graphs",
+   "Dynamic Text-Attributed Graphs and Learning Models for Community Evolution: A Survey of Recent Advances",
+   "Unlocking Multi-Modal Potentials for Link Prediction on Dynamic Text-Attributed Graphs",
+   "Transfer Learning for Edge Classification on Dynamic Text-Attributed Graphs",
+   "DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs",
+   "STAGE: LLM-Driven Semantic and Topological Augmented Graph Embedding for Text-Attributed Graphs",
+   "Hierarchical Knowledge Distillation on Text Graph for Data-limited Attribute Inference",
+   "GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning",
+   "Semi-Supervised Text-Attributed Graph Distillation",
+   "Large Language Model Meets Graph Neural Network in Knowledge Distillation"
+  ]
+ },
+ "K12": {
+  "query": "GraphRAG-Bench Challenging Domain-Specific Reasoning Evaluating Graph",
+  "gold": [
+   "https://openalex.org/W4417307696"
+  ],
+  "gold_titles": [
+   "GraphRAG-Bench: Challenging Domain-Specific Reasoning for Evaluating Graph Retrieval-Augmented Generation"
+  ],
+  "top10": [
+   "https://openalex.org/W4417307696",
+   "https://openalex.org/W4417097190",
+   "https://openalex.org/W4400376199",
+   "https://openalex.org/W4406840433",
+   "https://openalex.org/W4406031095",
+   "https://openalex.org/W4410600121",
+   "https://openalex.org/W4416379250",
+   "https://openalex.org/W4415482441",
+   "https://openalex.org/W7133118333",
+   "https://openalex.org/W4410086438"
+  ],
+  "top10_titles": [
+   "GraphRAG-Bench: Challenging Domain-Specific Reasoning for Evaluating Graph Retrieval-Augmented Generation",
+   "When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation",
+   "GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models",
+   "A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models",
+   "Retrieval-Augmented Generation with Graphs (GraphRAG)",
+   "Document GraphRAG: Knowledge Graph Enhanced Retrieval Augmented Generation for Document Question Answering Within the Manufacturing Domain",
+   "Graph Retrieval-Augmented Generation: A Survey",
+   "When Knowledge Graph Meets Retrieval Augmented Generation for Wireless Networks: A Tutorial and Case Study",
+   "Research on graph-retrieval augmented generation based on historical text knowledge graphs",
+   "TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking"
+  ]
+ },
+ "K13": {
+  "query": "Intelligent Fault Diagnostic Model Industrial Equipment",
+  "gold": [
+   "https://openalex.org/W4386952120"
+  ],
+  "gold_titles": [
+   "Intelligent Fault Diagnostic Model for Industrial Equipment Based on Multimodal Knowledge Graph"
+  ],
+  "top10": [
+   "https://openalex.org/W4386952120",
+   "https://openalex.org/W4408046274",
+   "https://openalex.org/W7133964346",
+   "https://openalex.org/W4409316345",
+   "https://openalex.org/W4409726361",
+   "https://openalex.org/W4392607872",
+   "https://openalex.org/W4407308596",
+   "https://openalex.org/W4413472998",
+   "https://openalex.org/W4404138521",
+   "https://openalex.org/W4412972770"
+  ],
+  "top10_titles": [
+   "Intelligent Fault Diagnostic Model for Industrial Equipment Based on Multimodal Knowledge Graph",
+   "A knowledge-graph enhanced large language model-based fault diagnostic reasoning and maintenance decision support pipeline towards industry 5.0",
+   "Knowledge extraction and retrieval-augmented generation for intelligent maintenance of wind power equipment based on graph attention networks",
+   "Intelligent Fault Diagnosis for CNC Through the Integration of Large Language Models and Domain Knowledge Graphs",
+   "An automatic machine fault identification method using the knowledge graph–embedded large language model",
+   "Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly",
+   "MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot",
+   "Graph retrieval augmented large language models for facial phenotype associated rare genetic disease",
+   "Leveraging Medical Knowledge Graphs Into Large Language Models for Diagnosis Prediction: Design and Application Study",
+   "Retrieval-Augmented Question Answering System Based on Large Language Models and Knowledge Graphs"
+  ]
+ },
+ "K14": {
+  "query": "Structure Guided Prompt Instructing Large Language",
+  "gold": [
+   "https://openalex.org/W4392085131"
+  ],
+  "gold_titles": [
+   "Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text"
+  ],
+  "top10": [
+   "https://openalex.org/W4392085131",
+   "https://openalex.org/W7128926176",
+   "https://openalex.org/W4411343030",
+   "https://openalex.org/W4407423017",
+   "https://openalex.org/W4407683688",
+   "https://openalex.org/W4415159404",
+   "https://openalex.org/W4398796581",
+   "https://openalex.org/W4406337737",
+   "https://openalex.org/W4399836638",
+   "https://openalex.org/W4400718844"
+  ],
+  "top10_titles": [
+   "Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text",
+   "CARAG: Context-Aware Retrieval-Augmented Generation for Railway Operation and Maintenance Question Answering over Spatial Knowledge Graph",
+   "Large language model-guided graph convolution network reasoning system for complex human-robot collaboration disassembly operations",
+   "Knowledge Graph-Guided Retrieval Augmented Generation",
+   "GraphiT: Efficient Node Classification on Text-Attributed Graphs with Prompt Optimized LLMs",
+   "GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation",
+   "Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning",
+   "Evaluating the effectiveness of prompt engineering for knowledge graph question answering",
+   "GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models",
+   "Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation"
+  ]
+ },
+ "K15": {
+  "query": "Learning Weak Semantics Feature Graph Attribute-Based",
+  "gold": [
+   "https://openalex.org/W4367663386"
+  ],
+  "gold_titles": [
+   "Learning Weak Semantics by Feature Graph for Attribute-Based Person Search"
+  ],
+  "top10": [
+   "https://openalex.org/W4367663386",
+   "https://openalex.org/W4410737989",
+   "https://openalex.org/W4385061854",
+   "https://openalex.org/W4226391640",
+   "https://openalex.org/W4406610395",
+   "https://openalex.org/W4385757483",
+   "https://openalex.org/W7104820829",
+   "https://openalex.org/W4390064441",
+   "https://openalex.org/W4390961154",
+   "https://openalex.org/W7127918032"
+  ],
+  "top10_titles": [
+   "Learning Weak Semantics by Feature Graph for Attribute-Based Person Search",
+   "MAGAE: Multi-Level Alignment Over Aggregation Semantic Graph With Attribute Enhancement for Text-Based Vehicle Retrieval",
+   "Improving Cross-Modal Constraints: Text Attribute Person Search With Graph Attention Networks",
+   "Hierarchical Feature Aggregation Based on Transformer for Image-Text Matching",
+   "Topology-Driven Attribute Recovery for Attribute Missing Graph Learning in Social Internet of Things",
+   "Address the Unseen Relationships: Attribute Correlations in Text Attribute Person Search",
+   "Multi-Scale Feature Fusion and Graph Neural Network Integration for Text Classification with Large Language Models",
+   "A graph neural network with context filtering and feature correction for conversational emotion recognition",
+   "Hierarchical Knowledge Distillation on Text Graph for Data-limited Attribute Inference",
+   "FinSCRA: An LLM-Powered Multi-Chain Reasoning Framework for Interpretable Node Classification on Text-Attributed Graphs"
+  ]
+ },
+ "K16": {
+  "query": "Leveraging Medical Knowledge Graphs Large Language",
+  "gold": [
+   "https://openalex.org/W4404138521"
+  ],
+  "gold_titles": [
+   "Leveraging Medical Knowledge Graphs Into Large Language Models for Diagnosis Prediction: Design and Application Study"
+  ],
+  "top10": [
+   "https://openalex.org/W4404138521",
+   "https://openalex.org/W4409825362",
+   "https://openalex.org/W4412972770",
+   "https://openalex.org/W4407761215",
+   "https://openalex.org/W4395049441",
+   "https://openalex.org/W4285020859",
+   "https://openalex.org/W4400222836",
+   "https://openalex.org/W4403443396",
+   "https://openalex.org/W4412465717",
+   "https://openalex.org/W4405740130"
+  ],
+  "top10_titles": [
+   "Leveraging Medical Knowledge Graphs Into Large Language Models for Diagnosis Prediction: Design and Application Study",
+   "Large language models for intelligent RDF knowledge graph construction: results from medical ontology mapping",
+   "Retrieval-Augmented Question Answering System Based on Large Language Models and Knowledge Graphs",
+   "Building an intelligent diabetes Q&A system with knowledge graphs and large language models",
+   "Augmented non-hallucinating large language models as medical information curators",
+   "A medical question answering system using large language models and knowledge graphs",
+   "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph",
+   "Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation",
+   "Practices, opportunities and challenges in the fusion of knowledge graphs and large language models",
+   "Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective"
+  ]
+ },
+ "K17": {
+  "query": "KRAGEN knowledge graph-enhanced RAG framework biomedical",
+  "gold": [
+   "https://openalex.org/W4399305008"
+  ],
+  "gold_titles": [
+   "KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models"
+  ],
+  "top10": [
+   "https://openalex.org/W4399305008",
+   "https://openalex.org/W4408184619",
+   "https://openalex.org/W4406098046",
+   "https://openalex.org/W7143536450",
+   "https://openalex.org/W7131634290",
+   "https://openalex.org/W4402567773",
+   "https://openalex.org/W7163062301",
+   "https://openalex.org/W4389260555",
+   "https://openalex.org/W4410191504",
+   "https://openalex.org/W4410764243"
+  ],
+  "top10_titles": [
+   "KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models",
+   "Knowledge graph enhanced retrieval-augmented generation for failure mode and effects analysis",
+   "Knowledge graph–based thought: a knowledge graph–enhanced LLM framework for pan-cancer question answering",
+   "HG-RAG: Hierarchical Graph-Enhanced Retrieval-Augmented Generation for Power Systems",
+   "DualGraphRAG: A Dual-View Graph-Enhanced Retrieval-Augmented Generation Framework for Reliable and Efficient Question Answering",
+   "Biomedical knowledge graph-optimized prompt generation for large language models",
+   "Constructing Multimodal Wireless Knowledge Graphs for Large Language Model–Based Network Reasoning",
+   "How to Build an Adaptive AI Tutor for Any Course Using Knowledge Graph-Enhanced Retrieval-Augmented Generation (KG-RAG)",
+   "Addressing the information silo of construction planning constraints – a graph retrieval augmented generation approach",
+   "DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation"
+  ]
+ },
+ "K18": {
+  "query": "KnowledgeNavigator leveraging large language models enhanced",
+  "gold": [
+   "https://openalex.org/W4400222836"
+  ],
+  "gold_titles": [
+   "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph"
+  ],
+  "top10": [
+   "https://openalex.org/W4400222836",
+   "https://openalex.org/W4404688293",
+   "https://openalex.org/W4406783055",
+   "https://openalex.org/W4388788707",
+   "https://openalex.org/W4411949398",
+   "https://openalex.org/W4387724258",
+   "https://openalex.org/W4413110846",
+   "https://openalex.org/W4401912578",
+   "https://openalex.org/W4417127529",
+   "https://openalex.org/W4415041019"
+  ],
+  "top10_titles": [
+   "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph",
+   "Leveraging Non-Parametric Reasoning With Large Language Models for Enhanced Knowledge Graph Completion",
+   "ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning",
+   "Leveraging LLMs in Scholarly Knowledge Graph Question Answering",
+   "LLM-DDI: Leveraging Large Language Models for Drug-Drug Interaction Prediction on Biomedical Knowledge Graph",
+   "Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs",
+   "GS-DTI: a graph-structure-aware framework leveraging large language models for drug–target interaction prediction",
+   "Combining large language models with enterprise knowledge graphs: a perspective on enhanced natural language understanding",
+   "Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment",
+   "Construction of intelligent decision support systems through integration of retrieval-augmented generation and knowledge graphs"
+  ]
+ },
+ "K19": {
+  "query": "review enhancing agricultural intelligence large language",
+  "gold": [
+   "https://openalex.org/W4411023341"
+  ],
+  "gold_titles": [
+   "A review on enhancing agricultural intelligence with large language models"
+  ],
+  "top10": [
+   "https://openalex.org/W4411023341",
+   "https://openalex.org/W4401581523",
+   "https://openalex.org/W4407440785",
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4401324765",
+   "https://openalex.org/W4321472314",
+   "https://openalex.org/W4401919376",
+   "https://openalex.org/W7123360579",
+   "https://openalex.org/W4409010179",
+   "https://openalex.org/W4409634738"
+  ],
+  "top10_titles": [
+   "A review on enhancing agricultural intelligence with large language models",
+   "Implementation of Large Language Models and Agricultural Knowledge Graphs for Efficient Plant Disease Detection",
+   "Knowledge Graph Combined with Retrieval-Augmented Generation for Enhancing LMs Reasoning: A Survey",
+   "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+   "Data-driven stock forecasting models based on neural networks: A review",
+   "A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT",
+   "Application of large language models based on knowledge graphs in question-answering systems: A review",
+   "Agentic Graph Neural Networks for Wireless Communications and Networking Toward Edge General Intelligence: A Survey",
+   "Large Language Models Meet Graph Neural Networks: A Perspective of Graph Mining",
+   "Knowledge Graphs and Their Reciprocal Relationship with Large Language Models"
+  ]
+ },
+ "K20": {
+  "query": "Intelligent decision support tunnel fire incidents",
+  "gold": [
+   "https://openalex.org/W7133312528"
+  ],
+  "gold_titles": [
+   "Intelligent decision support for tunnel fire incidents: integrating dynamic knowledge graph with large language models"
+  ],
+  "top10": [
+   "https://openalex.org/W7133312528",
+   "https://openalex.org/W4415041019",
+   "https://openalex.org/W4403998116",
+   "https://openalex.org/W4408046274",
+   "https://openalex.org/W4402583887",
+   "https://openalex.org/W4395049441",
+   "https://openalex.org/W4403749687",
+   "https://openalex.org/W7133964346",
+   "https://openalex.org/W4386952120",
+   "https://openalex.org/W4407308596"
+  ],
+  "top10_titles": [
+   "Intelligent decision support for tunnel fire incidents: integrating dynamic knowledge graph with large language models",
+   "Construction of intelligent decision support systems through integration of retrieval-augmented generation and knowledge graphs",
+   "GeoPredict-LLM: Intelligent tunnel advanced geological prediction by reprogramming large language models",
+   "A knowledge-graph enhanced large language model-based fault diagnostic reasoning and maintenance decision support pipeline towards industry 5.0",
+   "MAKG: A maritime accident knowledge graph for intelligent accident analysis and management",
+   "Augmented non-hallucinating large language models as medical information curators",
+   "A Retrieval-Augmented Generation Approach for Data-Driven Energy Infrastructure Digital Twins",
+   "Knowledge extraction and retrieval-augmented generation for intelligent maintenance of wind power equipment based on graph attention networks",
+   "Intelligent Fault Diagnostic Model for Industrial Equipment Based on Multimodal Knowledge Graph",
+   "MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot"
+  ]
+ },
+ "K21": {
+  "query": "KG-GPT General Framework Reasoning Knowledge Graphs",
+  "gold": [
+   "https://openalex.org/W4387799827"
+  ],
+  "gold_titles": [
+   "KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models"
+  ],
+  "top10": [
+   "https://openalex.org/W4387799827",
+   "https://openalex.org/W4403579106",
+   "https://openalex.org/W4367860080",
+   "https://openalex.org/W4400341288",
+   "https://openalex.org/W4400718844",
+   "https://openalex.org/W4400222836",
+   "https://openalex.org/W4402567773",
+   "https://openalex.org/W4399253046",
+   "https://openalex.org/W4377865170",
+   "https://openalex.org/W4404087975"
+  ],
+  "top10_titles": [
+   "KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models",
+   "Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models",
+   "Complex Logical Reasoning over Knowledge Graphs using Large Language Models",
+   "Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs",
+   "Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation",
+   "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph",
+   "Biomedical knowledge graph-optimized prompt generation for large language models",
+   "GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning",
+   "LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities",
+   "Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning"
+  ]
+ },
+ "K22": {
+  "query": "Multi-Scale Feature Fusion Graph Neural Network",
+  "gold": [
+   "https://openalex.org/W7104820829"
+  ],
+  "gold_titles": [
+   "Multi-Scale Feature Fusion and Graph Neural Network Integration for Text Classification with Large Language Models"
+  ],
+  "top10": [
+   "https://openalex.org/W7104820829",
+   "https://openalex.org/W4405354776",
+   "https://openalex.org/W4226391640",
+   "https://openalex.org/W4390064441",
+   "https://openalex.org/W4416948017",
+   "https://openalex.org/W4415428282",
+   "https://openalex.org/W4405254610",
+   "https://openalex.org/W4312942615",
+   "https://openalex.org/W4287887115",
+   "https://openalex.org/W4312272363"
+  ],
+  "top10_titles": [
+   "Multi-Scale Feature Fusion and Graph Neural Network Integration for Text Classification with Large Language Models",
+   "Multi-Scale Heterogeneous Text-Attributed Graph Datasets From Diverse Domains",
+   "Hierarchical Feature Aggregation Based on Transformer for Image-Text Matching",
+   "A graph neural network with context filtering and feature correction for conversational emotion recognition",
+   "Accelerated Discovery of Energy Materials via Graph Neural Network",
+   "Text-Attributed Graph Anomaly Detection via Multi-Scale Cross- and Uni-Modal Contrastive Learning",
+   "GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model",
+   "Malware Detection by Control-Flow Graph Level Representation Learning With Graph Isomorphism Network",
+   "BGNN-XML: Bilateral Graph Neural Networks for Extreme Multi-label Text Classification",
+   "Text-Image Matching for Cross-Modal Remote Sensing Image Retrieval via Graph Neural Network"
+  ]
+ },
+ "K23": {
+  "query": "MechGPT Language-Based Strategy Mechanics Materials Modeling",
+  "gold": [
+   "https://openalex.org/W4387773384"
+  ],
+  "gold_titles": [
+   "MechGPT, a Language-Based Strategy for Mechanics and Materials Modeling That Connects Knowledge Across Scales, Disciplines, and Modalities"
+  ],
+  "top10": [
+   "https://openalex.org/W4387773384",
+   "https://openalex.org/W4390824394",
+   "https://openalex.org/W4398777692",
+   "https://openalex.org/W4411149009",
+   "https://openalex.org/W4386250621",
+   "https://openalex.org/W4323338311",
+   "https://openalex.org/W4411429656",
+   "https://openalex.org/W4416948017",
+   "https://openalex.org/W4415966790",
+   "https://openalex.org/W4416050929"
+  ],
+  "top10_titles": [
+   "MechGPT, a Language-Based Strategy for Mechanics and Materials Modeling That Connects Knowledge Across Scales, Disciplines, and Modalities",
+   "Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design",
+   "X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design",
+   "In Situ Graph Reasoning and Knowledge Expansion Using Graph‐PRefLexOR",
+   "Generative pretrained autoregressive transformer graph neural network applied to the analysis and discovery of novel proteins",
+   "Detecting Offensive Language Based on Graph Attention Networks and Fusion Features",
+   "LLM-Prop: predicting the properties of crystalline materials using large language models",
+   "Accelerated Discovery of Energy Materials via Graph Neural Network",
+   "Rapid and automated alloy design with graph neural network-powered large language model-driven multi-agent AI",
+   "CITE: A Comprehensive Benchmark for Heterogeneous Text-Attributed Graphs on Catalytic Materials"
+  ]
+ },
+ "K24": {
+  "query": "ZhiFangDanTai Fine-Tuning Graph-Based Retrieval-Augmented Generation Model",
+  "gold": [
+   "https://openalex.org/W4417438938"
+  ],
+  "gold_titles": [
+   "ZhiFangDanTai: Fine-Tuning Graph-Based Retrieval-Augmented Generation Model for Traditional Chinese Medicine Formula"
+  ],
+  "top10": [
+   "https://openalex.org/W4417438938",
+   "https://openalex.org/W4413737842",
+   "https://openalex.org/W4406482986",
+   "https://openalex.org/W4404399468",
+   "https://openalex.org/W4405792520",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4412452924",
+   "https://openalex.org/W4410086438",
+   "https://openalex.org/W4407423017",
+   "https://openalex.org/W4416402923"
+  ],
+  "top10_titles": [
+   "ZhiFangDanTai: Fine-Tuning Graph-Based Retrieval-Augmented Generation Model for Traditional Chinese Medicine Formula",
+   "AI-augmented systems engineering: conceptual application of retrieval-augmented generation for model-based systems engineering graph",
+   "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching",
+   "Simple Is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation",
+   "GeAR: Graph-enhanced Agent for Retrieval-augmented Generation",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "GeoGraphRAG: A graph-based retrieval-augmented generation approach for empowering large language models in automated geospatial modeling",
+   "TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking",
+   "Knowledge Graph-Guided Retrieval Augmented Generation",
+   "Advancing engineering research through context-aware and knowledge graph–based retrieval-augmented generation"
+  ]
+ },
+ "K25": {
+  "query": "PowerGraph-LLM Novel Power Grid Graph Embedding",
+  "gold": [
+   "https://openalex.org/W4413126631"
+  ],
+  "gold_titles": [
+   "PowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization With Large Language Models"
+  ],
+  "top10": [
+   "https://openalex.org/W4413126631",
+   "https://openalex.org/W4415707175",
+   "https://openalex.org/W4399836819",
+   "https://openalex.org/W7160543524",
+   "https://openalex.org/W4392866655",
+   "https://openalex.org/W4410294659",
+   "https://openalex.org/W4321021687",
+   "https://openalex.org/W4412161914",
+   "https://openalex.org/W4221151119",
+   "https://openalex.org/W4407215814"
+  ],
+  "top10_titles": [
+   "PowerGraph-LLM: Novel Power Grid Graph Embedding and Optimization With Large Language Models",
+   "A Retrieval-Augmented Generation Framework Based on a Knowledge Graph of Cybersecurity Vulnerabilities in Power Networks",
+   "UniGLM: Training One Unified Language Model for Text-Attributed Graph Embedding",
+   "STAGE: LLM-Driven Semantic and Topological Augmented Graph Embedding for Text-Attributed Graphs",
+   "Language-Grounded Dynamic Scene Graphs for Interactive Object Search With Mobile Manipulation",
+   "Text Moderation in Online Communities: Integrating User Attributes and Interaction Graph Embedding",
+   "Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation",
+   "Large Language Models for Knowledge Graph Embedding: A Survey",
+   "Hyperbolic Graph Neural Networks: A Review of Methods and Applications",
+   "Optimizing Electric Vehicles Charging using Large Language Models and Graph Neural Networks"
+  ]
+ },
+ "K26": {
+  "query": "TAGLAS atlas text-attributed graph datasets era",
+  "gold": [
+   "https://openalex.org/W4399986615"
+  ],
+  "gold_titles": [
+   "TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models"
+  ],
+  "top10": [
+   "https://openalex.org/W4399986615",
+   "https://openalex.org/W4405354776",
+   "https://openalex.org/W4416780429",
+   "https://openalex.org/W4402346099",
+   "https://openalex.org/W7154447653",
+   "https://openalex.org/W4416432883",
+   "https://openalex.org/W4415428282",
+   "https://openalex.org/W7204579856",
+   "https://openalex.org/W4417127529",
+   "https://openalex.org/W4417261326"
+  ],
+  "top10_titles": [
+   "TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models",
+   "Multi-Scale Heterogeneous Text-Attributed Graph Datasets From Diverse Domains",
+   "TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs",
+   "STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs",
+   "Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning",
+   "G2rammar: Bilingual Grammar Modeling for Enhanced Text-attributed Graph Learning",
+   "Text-Attributed Graph Anomaly Detection via Multi-Scale Cross- and Uni-Modal Contrastive Learning",
+   "Rethinking Message Passing as Retrieval for Text-Attributed Graph Learning",
+   "Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment",
+   "HeTGB: A Comprehensive Benchmark for Heterophilic Text-Attributed Graphs"
+  ]
+ },
+ "K27": {
+  "query": "DARG Dynamic Evaluation Large Language Models",
+  "gold": [
+   "https://openalex.org/W4400064782"
+  ],
+  "gold_titles": [
+   "DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph"
+  ],
+  "top10": [
+   "https://openalex.org/W4400064782",
+   "https://openalex.org/W4377865170",
+   "https://openalex.org/W4399836803",
+   "https://openalex.org/W4389132760",
+   "https://openalex.org/W4415344088",
+   "https://openalex.org/W7117164823",
+   "https://openalex.org/W4406122884",
+   "https://openalex.org/W4398796581",
+   "https://openalex.org/W7118724276",
+   "https://openalex.org/W4386081161"
+  ],
+  "top10_titles": [
+   "DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph",
+   "LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities",
+   "DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs",
+   "Temporal graph learning for dynamic link prediction with text in online social networks",
+   "GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning",
+   "Dynamic Text-Attributed Graphs and Learning Models for Community Evolution: A Survey of Recent Advances",
+   "GORAG: Graph-based Online Retrieval Augmented Generation for Dynamic Few-shot Social Media Text Classification",
+   "Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning",
+   "Retrieval-Augmented Graph Reasoning with Large Language Models for Explainable Incident Diagnosis",
+   "Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?"
+  ]
+ },
+ "K28": {
+  "query": "Exploring Concept Subspace Self-explainable Text-Attributed Graph",
+  "gold": [
+   "https://openalex.org/W7154447653"
+  ],
+  "gold_titles": [
+   "Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning"
+  ],
+  "top10": [
+   "https://openalex.org/W7154447653",
+   "https://openalex.org/W4394947160",
+   "https://openalex.org/W4399116025",
+   "https://openalex.org/W4387929750",
+   "https://openalex.org/W4402346099",
+   "https://openalex.org/W4416780429",
+   "https://openalex.org/W4415428282",
+   "https://openalex.org/W4399836819",
+   "https://openalex.org/W4405354776",
+   "https://openalex.org/W4399986615"
+  ],
+  "top10_titles": [
+   "Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning",
+   "You do not have to train Graph Neural Networks at all on text-attributed graphs",
+   "TAGA: Text-Attributed Graph Self-Supervised Learning by Synergizing Graph and Text Mutual Transformations",
+   "GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs",
+   "STAGE: Simplified Text-Attributed Graph Embeddings Using Pre-trained LLMs",
+   "TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs",
+   "Text-Attributed Graph Anomaly Detection via Multi-Scale Cross- and Uni-Modal Contrastive Learning",
+   "UniGLM: Training One Unified Language Model for Text-Attributed Graph Embedding",
+   "Multi-Scale Heterogeneous Text-Attributed Graph Datasets From Diverse Domains",
+   "TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models"
+  ]
+ },
+ "K29": {
+  "query": "Combining LLMs Knowledge Graphs Reduce Hallucinations",
+  "gold": [
+   "https://openalex.org/W4417160556"
+  ],
+  "gold_titles": [
+   "Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Biomedical Question Answering"
+  ],
+  "top10": [
+   "https://openalex.org/W4417160556",
+   "https://openalex.org/W4386081161",
+   "https://openalex.org/W4406783055",
+   "https://openalex.org/W4407440785",
+   "https://openalex.org/W4405740130",
+   "https://openalex.org/W4414746921",
+   "https://openalex.org/W4377865170",
+   "https://openalex.org/W4389325826",
+   "https://openalex.org/W4399657455",
+   "https://openalex.org/W4400341288"
+  ],
+  "top10_titles": [
+   "Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Biomedical Question Answering",
+   "Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?",
+   "ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning",
+   "Knowledge Graph Combined with Retrieval-Augmented Generation for Enhancing LMs Reasoning: A Survey",
+   "Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective",
+   "Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities",
+   "LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities",
+   "On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs",
+   "Research Trends for the Interplay between Large Language Models and Knowledge Graphs",
+   "Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs"
+  ]
+ },
+ "K30": {
+  "query": "ESCARGOT agent leveraging large language models",
+  "gold": [
+   "https://openalex.org/W4406783055"
+  ],
+  "gold_titles": [
+   "ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning"
+  ],
+  "top10": [
+   "https://openalex.org/W4406783055",
+   "https://openalex.org/W4400222836",
+   "https://openalex.org/W4388788707",
+   "https://openalex.org/W4411949398",
+   "https://openalex.org/W4387724258",
+   "https://openalex.org/W4413110846",
+   "https://openalex.org/W7123360579",
+   "https://openalex.org/W4417127529",
+   "https://openalex.org/W4415061514",
+   "https://openalex.org/W4386148087"
+  ],
+  "top10_titles": [
+   "ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning",
+   "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph",
+   "Leveraging LLMs in Scholarly Knowledge Graph Question Answering",
+   "LLM-DDI: Leveraging Large Language Models for Drug-Drug Interaction Prediction on Biomedical Knowledge Graph",
+   "Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs",
+   "GS-DTI: a graph-structure-aware framework leveraging large language models for drug–target interaction prediction",
+   "Agentic Graph Neural Networks for Wireless Communications and Networking Toward Edge General Intelligence: A Survey",
+   "Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment",
+   "DEMENTIA-PLAN: An Agent-Based Framework for Multi-Knowledge Graph Retrieval-Augmented Generation in Dementia Care",
+   "Knowledge Graph Prompting for Multi-Document Question Answering"
+  ]
+ },
+ "S01": {
+  "query": "a position paper charting where research should go in merging structured knowledge bases with neural language models",
+  "gold": [
+   "https://openalex.org/W4390692489"
+  ],
+  "gold_titles": [
+   "Unifying Large Language Models and Knowledge Graphs: A Roadmap"
+  ],
+  "top10": [
+   "https://openalex.org/W4391407054",
+   "https://openalex.org/W4399790320",
+   "https://openalex.org/W4412999927",
+   "https://openalex.org/W4406840433",
+   "https://openalex.org/W4411023341",
+   "https://openalex.org/W4401919376",
+   "https://openalex.org/W4412567559",
+   "https://openalex.org/W4404048128",
+   "https://openalex.org/W4387322659",
+   "https://openalex.org/W4396600459"
+  ],
+  "top10_titles": [
+   "Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Aware Language Modeling",
+   "Large Knowledge Model: Perspectives and Challenges",
+   "SG-RAG MOT: SubGraph Retrieval Augmented Generation with Merging and Ordering Triplets for Knowledge Graph Multi-Hop Question Answering",
+   "A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models",
+   "A review on enhancing agricultural intelligence with large language models",
+   "Application of large language models based on knowledge graphs in question-answering systems: A review",
+   "Large Language Models Merging for Enhancing the Link Stealing Attack on Graph Neural Networks",
+   "An Accurate and Efficient Approach to Knowledge Extraction from Scientific Publications Using Structured Ontology Models, Graph Neural Networks, and Large Language Models",
+   "Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning",
+   "Multi-hop Question Answering over Knowledge Graphs using Large Language Models"
+  ]
+ },
+ "S02": {
+  "query": "a system that plugs an external fact store into a text generator so its outputs stay grounded in verified facts",
+  "gold": [
+   "https://openalex.org/W4391407054"
+  ],
+  "gold_titles": [
+   "Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Aware Language Modeling"
+  ],
+  "top10": [
+   "https://openalex.org/W4410086438",
+   "https://openalex.org/W4391407054",
+   "https://openalex.org/W4406031095",
+   "https://openalex.org/W4386081161",
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4386556710",
+   "https://openalex.org/W4379933424",
+   "https://openalex.org/W4402854593",
+   "https://openalex.org/W4385774107",
+   "https://openalex.org/W4416023945"
+  ],
+  "top10_titles": [
+   "TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking",
+   "Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Aware Language Modeling",
+   "Retrieval-Augmented Generation with Graphs (GraphRAG)",
+   "Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?",
+   "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+   "ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning",
+   "Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering",
+   "Retrieval-augmented generation for natural language processing: a survey",
+   "Cumulative Reasoning with Large Language Models",
+   "Plan of Knowledge: Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering"
+  ]
+ },
+ "S03": {
+  "query": "an overview of models that fuse external structured information into pretrained text encoders",
+  "gold": [
+   "https://openalex.org/W4386275705"
+  ],
+  "gold_titles": [
+   "A Survey of Knowledge Enhanced Pre-Trained Language Models"
+  ],
+  "top10": [
+   "https://openalex.org/W4226281578",
+   "https://openalex.org/W4416235956",
+   "https://openalex.org/W4407856367",
+   "https://openalex.org/W4405433983",
+   "https://openalex.org/W7170826699",
+   "https://openalex.org/W4407440785",
+   "https://openalex.org/W4387559176",
+   "https://openalex.org/W7169763511",
+   "https://openalex.org/W4321472314",
+   "https://openalex.org/W7210284042"
+  ],
+  "top10_titles": [
+   "GreaseLM: Graph REASoning Enhanced Language Models for Question Answering",
+   "GeoGNN: Quantifying and Mitigating Semantic Drift in Text-Attributed Graphs",
+   "Empowering LLMs by hybrid retrieval-augmented generation for domain-centric Q&A in smart manufacturing",
+   "Can LLMs Convert Graphs to Text-Attributed Graphs?",
+   "Semi-Supervised Text-Attributed Graph Distillation",
+   "Knowledge Graph Combined with Retrieval-Augmented Generation for Enhancing LMs Reasoning: A Survey",
+   "Talk like a Graph: Encoding Graphs for Large Language Models",
+   "Integrating graphs, large language models, and agents: Reasoning and retrieval",
+   "A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT",
+   "Overview of Knowledge Graph Construction and Reasoning Enhanced by Large Language Models"
+  ]
+ },
+ "S04": {
+  "query": "revisiting how self-supervised objectives should be designed for message-passing networks over chemical structures",
+  "gold": [
+   "https://openalex.org/W4365455552"
+  ],
+  "gold_titles": [
+   "Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules"
+  ],
+  "top10": [
+   "https://openalex.org/W7204579856",
+   "https://openalex.org/W4387929750",
+   "https://openalex.org/W4392089947",
+   "https://openalex.org/W7166888040",
+   "https://openalex.org/W4399116025",
+   "https://openalex.org/W4416901675",
+   "https://openalex.org/W4322576830",
+   "https://openalex.org/W4399836638",
+   "https://openalex.org/W7164842051",
+   "https://openalex.org/W4405254610"
+  ],
+  "top10_titles": [
+   "Rethinking Message Passing as Retrieval for Text-Attributed Graph Learning",
+   "GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs",
+   "UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs",
+   "TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning",
+   "TAGA: Text-Attributed Graph Self-Supervised Learning by Synergizing Graph and Text Mutual Transformations",
+   "Intelligent4DSE: Optimizing High-Level Synthesis Design Space Exploration with Graph Neural Networks and Large Language Models",
+   "Deep Tabular Data Modeling With Dual-Route Structure-Adaptive Graph Networks",
+   "GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models",
+   "A survey of models composed of graph neural networks and large language models for molecular science",
+   "GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model"
+  ]
+ },
+ "S05": {
+  "query": "a literature review covering methods that add relational structure into the evidence selection step of a generator",
+  "gold": [
+   "https://openalex.org/W4416379250"
+  ],
+  "gold_titles": [
+   "Graph Retrieval-Augmented Generation: A Survey"
+  ],
+  "top10": [
+   "https://openalex.org/W4406031095",
+   "https://openalex.org/W4413737842",
+   "https://openalex.org/W4405185737",
+   "https://openalex.org/W4392085131",
+   "https://openalex.org/W4401324765",
+   "https://openalex.org/W4399836819",
+   "https://openalex.org/W4409634738",
+   "https://openalex.org/W4382119366",
+   "https://openalex.org/W4414925442",
+   "https://openalex.org/W4392182315"
+  ],
+  "top10_titles": [
+   "Retrieval-Augmented Generation with Graphs (GraphRAG)",
+   "AI-augmented systems engineering: conceptual application of retrieval-augmented generation for model-based systems engineering graph",
+   "KG-EGV: A Framework for Question Answering with Integrated Knowledge Graphs and Large Language Models",
+   "Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text",
+   "Data-driven stock forecasting models based on neural networks: A review",
+   "UniGLM: Training One Unified Language Model for Text-Attributed Graph Embedding",
+   "Knowledge Graphs and Their Reciprocal Relationship with Large Language Models",
+   "Relational Temporal Graph Reasoning for Dual-task Dialogue Language Understanding",
+   "MEGA-RAG: a retrieval-augmented generation framework with multi-evidence guided answer refinement for mitigating hallucinations of LLMs in public health",
+   "Causal Graph Discovery with Retrieval-Augmented Generation based Large Language Models"
+  ]
+ },
+ "S06": {
+  "query": "an overview of work applying text-based models to problems defined over networked data",
+  "gold": [
+   "https://openalex.org/W4402915290"
+  ],
+  "gold_titles": [
+   "Large Language Models on Graphs: A Comprehensive Survey"
+  ],
+  "top10": [
+   "https://openalex.org/W4410737989",
+   "https://openalex.org/W4402047531",
+   "https://openalex.org/W4387356334",
+   "https://openalex.org/W7127918032",
+   "https://openalex.org/W4409158865",
+   "https://openalex.org/W4415962875",
+   "https://openalex.org/W4389072726",
+   "https://openalex.org/W4402915290",
+   "https://openalex.org/W4385774107",
+   "https://openalex.org/W4377111679"
+  ],
+  "top10_titles": [
+   "MAGAE: Multi-Level Alignment Over Aggregation Semantic Graph With Attribute Enhancement for Text-Based Vehicle Retrieval",
+   "Multilingual question answering systems for knowledge graphs – a survey",
+   "Large Language Models Meet Knowledge Graphs to Answer Factoid Questions",
+   "FinSCRA: An LLM-Powered Multi-Chain Reasoning Framework for Interpretable Node Classification on Text-Attributed Graphs",
+   "Difficulty aware programming knowledge tracing via large language models",
+   "Robustness in Text-Attributed Graph Learning: Insights, Trade-offs, and New Defenses",
+   "Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs",
+   "Large Language Models on Graphs: A Comprehensive Survey",
+   "Cumulative Reasoning with Large Language Models",
+   "Can Language Models Solve Graph Problems in Natural Language?"
+  ]
+ },
+ "S07": {
+  "query": "automatically crafting instructions from a curated medical network to steer a chatbot's answers",
+  "gold": [
+   "https://openalex.org/W4402567773"
+  ],
+  "gold_titles": [
+   "Biomedical knowledge graph-optimized prompt generation for large language models"
+  ],
+  "top10": [
+   "https://openalex.org/W4395049441",
+   "https://openalex.org/W4285020859",
+   "https://openalex.org/W4412972770",
+   "https://openalex.org/W4403443396",
+   "https://openalex.org/W4402953189",
+   "https://openalex.org/W4392822529",
+   "https://openalex.org/W4402813529",
+   "https://openalex.org/W4409825362",
+   "https://openalex.org/W4407855931",
+   "https://openalex.org/W4407761215"
+  ],
+  "top10_titles": [
+   "Augmented non-hallucinating large language models as medical information curators",
+   "A medical question answering system using large language models and knowledge graphs",
+   "Retrieval-Augmented Question Answering System Based on Large Language Models and Knowledge Graphs",
+   "Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation",
+   "Enhancing Event Reasoning in Large Language Models through Instruction Fine-Tuning with Semantic Causal Graphs",
+   "From human experts to machines: An LLM supported approach to ontology and knowledge graph construction",
+   "Large‐language‐model empowered 3D dose prediction for intensity‐modulated radiotherapy",
+   "Large language models for intelligent RDF knowledge graph construction: results from medical ontology mapping",
+   "Osteosarcoma knowledge graph question answering system: deep learning-based knowledge graph and large language model fusion",
+   "Building an intelligent diabetes Q&A system with knowledge graphs and large language models"
+  ]
+ },
+ "S08": {
+  "query": "why generated text drifts away from truth, and what structured resources can do about it",
+  "gold": [
+   "https://openalex.org/W4405740130"
+  ],
+  "gold_titles": [
+   "Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective"
+  ],
+  "top10": [
+   "https://openalex.org/W4411665971",
+   "https://openalex.org/W4395049441",
+   "https://openalex.org/W4406934871",
+   "https://openalex.org/W4392822529",
+   "https://openalex.org/W4399305008",
+   "https://openalex.org/W4405907414",
+   "https://openalex.org/W7131354032",
+   "https://openalex.org/W4406840433",
+   "https://openalex.org/W4379087246",
+   "https://openalex.org/W4313930684"
+  ],
+  "top10_titles": [
+   "Large language model applications in disaster management: An interdisciplinary review",
+   "Augmented non-hallucinating large language models as medical information curators",
+   "Large Language Models Meet Graph Neural Networks for Text-Numeric Graph Reasoning",
+   "From human experts to machines: An LLM supported approach to ontology and knowledge graph construction",
+   "KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models",
+   "FinLLMs: A Framework for Financial Reasoning Dataset Generation With Large Language Models",
+   "Research on an intelligent tutoring system based on automatic construction of multimodal knowledge graphs and retrieval-augmented generation",
+   "A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models",
+   "Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning",
+   "Topics as Entity Clusters: Entity-based Topics from Large Language Models and Graph Neural Networks"
+  ]
+ },
+ "S09": {
+  "query": "using a programming-oriented text model to extract entities and relations without a predefined schema",
+  "gold": [
+   "https://openalex.org/W4391681328"
+  ],
+  "gold_titles": [
+   "CodeKGC: Code Language Model for Generative Knowledge Graph Construction"
+  ],
+  "top10": [
+   "https://openalex.org/W4409158865",
+   "https://openalex.org/W4400262563",
+   "https://openalex.org/W4396600459",
+   "https://openalex.org/W4412161914",
+   "https://openalex.org/W4405792776",
+   "https://openalex.org/W4406482986",
+   "https://openalex.org/W4415159404",
+   "https://openalex.org/W4313930684",
+   "https://openalex.org/W4385349668",
+   "https://openalex.org/W4394619840"
+  ],
+  "top10_titles": [
+   "Difficulty aware programming knowledge tracing via large language models",
+   "Knowledge graph construction for heart failure using large language models with prompt engineering",
+   "Multi-hop Question Answering over Knowledge Graphs using Large Language Models",
+   "Large Language Models for Knowledge Graph Embedding: A Survey",
+   "Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation",
+   "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching",
+   "GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation",
+   "Topics as Entity Clusters: Entity-based Topics from Large Language Models and Graph Neural Networks",
+   "A Dynamic Attributes-driven Graph Attention Network Modeling on Behavioral Finance for Stock Prediction",
+   "Nanjing Yunjin intelligent question-answering system based on knowledge graphs and retrieval augmented generation technology"
+  ]
+ },
+ "S10": {
+  "query": "a clinical QA pipeline that combines a chatbot with a curated disease network",
+  "gold": [
+   "https://openalex.org/W4285020859"
+  ],
+  "gold_titles": [
+   "A medical question answering system using large language models and knowledge graphs"
+  ],
+  "top10": [
+   "https://openalex.org/W4400262563",
+   "https://openalex.org/W4401581523",
+   "https://openalex.org/W4413472998",
+   "https://openalex.org/W4406234152",
+   "https://openalex.org/W4414746921",
+   "https://openalex.org/W4404138521",
+   "https://openalex.org/W4416364791",
+   "https://openalex.org/W3195153845",
+   "https://openalex.org/W4416833779",
+   "https://openalex.org/W4386148087"
+  ],
+  "top10_titles": [
+   "Knowledge graph construction for heart failure using large language models with prompt engineering",
+   "Implementation of Large Language Models and Agricultural Knowledge Graphs for Efficient Plant Disease Detection",
+   "Graph retrieval augmented large language models for facial phenotype associated rare genetic disease",
+   "CVDLLM: Automated Cardiovascular Disease Diagnosis With Large-Language-Model-Assisted Graph Attentive Feature Interaction",
+   "Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities",
+   "Leveraging Medical Knowledge Graphs Into Large Language Models for Diagnosis Prediction: Design and Application Study",
+   "Hierarchical knowledge graph-based QA systems with retrieval-augmented generation",
+   "Uniqorn: Unified question answering over RDF knowledge graphs and natural language text",
+   "Bridging dual knowledge graphs for multi-hop question answering in construction safety",
+   "Knowledge Graph Prompting for Multi-Document Question Answering"
+  ]
+ },
+ "S11": {
+  "query": "whether text generators can infer cause and effect relationships, and what that enables downstream",
+  "gold": [
+   "https://openalex.org/W4367692219"
+  ],
+  "gold_titles": [
+   "Causal Reasoning and Large Language Models: Opening a New Frontier for Causality"
+  ],
+  "top10": [
+   "https://openalex.org/W4387929750",
+   "https://openalex.org/W4389325826",
+   "https://openalex.org/W4410294659",
+   "https://openalex.org/W4386113654",
+   "https://openalex.org/W4407687339",
+   "https://openalex.org/W4390961154",
+   "https://openalex.org/W4410598458",
+   "https://openalex.org/W4404347859",
+   "https://openalex.org/W4392085131",
+   "https://openalex.org/W4321276802"
+  ],
+  "top10_titles": [
+   "GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs",
+   "On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs",
+   "Text Moderation in Online Communities: Integrating User Attributes and Interaction Graph Embedding",
+   "MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models",
+   "LLM-driven Knowledge Distillation for Dynamic Text-Attributed Graphs",
+   "Hierarchical Knowledge Distillation on Text Graph for Data-limited Attribute Inference",
+   "Integrating Graph Neural Networks and Large Language Models for Stance Detection via Heterogeneous Stance Networks",
+   "Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs",
+   "Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text",
+   "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks"
+  ]
+ },
+ "S12": {
+  "query": "a materials science assistant built from several cooperating agents plus an ontology-backed knowledge organizer",
+  "gold": [
+   "https://openalex.org/W4390824394"
+  ],
+  "gold_titles": [
+   "Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design"
+  ],
+  "top10": [
+   "https://openalex.org/W7169763511",
+   "https://openalex.org/W4415966790",
+   "https://openalex.org/W4389475249",
+   "https://openalex.org/W4411149009",
+   "https://openalex.org/W4411429656",
+   "https://openalex.org/W4405253182",
+   "https://openalex.org/W4311179098",
+   "https://openalex.org/W4401722919",
+   "https://openalex.org/W4390824394",
+   "https://openalex.org/W4410374120"
+  ],
+  "top10_titles": [
+   "Integrating graphs, large language models, and agents: Reasoning and retrieval",
+   "Rapid and automated alloy design with graph neural network-powered large language model-driven multi-agent AI",
+   "GPT-Assisted Learning of Structure–Property Relationships by Graph Neural Networks: Application to Rare-Earth-Doped Phosphors",
+   "In Situ Graph Reasoning and Knowledge Expansion Using Graph‐PRefLexOR",
+   "LLM-Prop: predicting the properties of crystalline materials using large language models",
+   "OmEGa( Ω ): Ontology-based information extraction framework for constructing task-centric knowledge graph from manufacturing documents with large language model",
+   "Illuminating protein space with a programmable generative model",
+   "Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning",
+   "Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design",
+   "PRefLexOR: preference-based recursive language modeling for exploratory optimization of reasoning and agentic thinking"
+  ]
+ },
+ "S13": {
+  "query": "can text generators substitute for or assist message passing on networked data",
+  "gold": [
+   "https://openalex.org/W4393277515"
+  ],
+  "gold_titles": [
+   "Exploring the Potential of Large Language Models (LLMs)in Learning on Graphs"
+  ],
+  "top10": [
+   "https://openalex.org/W7204579856",
+   "https://openalex.org/W7166888040",
+   "https://openalex.org/W4416901675",
+   "https://openalex.org/W4390961154",
+   "https://openalex.org/W4405254610",
+   "https://openalex.org/W4416235956",
+   "https://openalex.org/W4322576830",
+   "https://openalex.org/W4392182136",
+   "https://openalex.org/W4408845035",
+   "https://openalex.org/W4411949398"
+  ],
+  "top10_titles": [
+   "Rethinking Message Passing as Retrieval for Text-Attributed Graph Learning",
+   "TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning",
+   "Intelligent4DSE: Optimizing High-Level Synthesis Design Space Exploration with Graph Neural Networks and Large Language Models",
+   "Hierarchical Knowledge Distillation on Text Graph for Data-limited Attribute Inference",
+   "GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model",
+   "GeoGNN: Quantifying and Mitigating Semantic Drift in Text-Attributed Graphs",
+   "Deep Tabular Data Modeling With Dual-Route Structure-Adaptive Graph Networks",
+   "GraphEdit: Large Language Models for Graph Structure Learning",
+   "Joint estimation and prediction of city-wide delivery demand: A large language model empowered graph-based learning approach",
+   "LLM-DDI: Leveraging Large Language Models for Drug-Drug Interaction Prediction on Biomedical Knowledge Graph"
+  ]
+ },
+ "S14": {
+  "query": "an aircraft maintenance troubleshooting assistant backed by a curated structured repository",
+  "gold": [
+   "https://openalex.org/W4392607872"
+  ],
+  "gold_titles": [
+   "Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly"
+  ],
+  "top10": [
+   "https://openalex.org/W4409726361",
+   "https://openalex.org/W4392607872",
+   "https://openalex.org/W4403749687",
+   "https://openalex.org/W7133964346",
+   "https://openalex.org/W7128926176",
+   "https://openalex.org/W4415159404",
+   "https://openalex.org/W4408046274",
+   "https://openalex.org/W4402567773",
+   "https://openalex.org/W4385774107",
+   "https://openalex.org/W4417438938"
+  ],
+  "top10_titles": [
+   "An automatic machine fault identification method using the knowledge graph–embedded large language model",
+   "Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly",
+   "A Retrieval-Augmented Generation Approach for Data-Driven Energy Infrastructure Digital Twins",
+   "Knowledge extraction and retrieval-augmented generation for intelligent maintenance of wind power equipment based on graph attention networks",
+   "CARAG: Context-Aware Retrieval-Augmented Generation for Railway Operation and Maintenance Question Answering over Spatial Knowledge Graph",
+   "GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation",
+   "A knowledge-graph enhanced large language model-based fault diagnostic reasoning and maintenance decision support pipeline towards industry 5.0",
+   "Biomedical knowledge graph-optimized prompt generation for large language models",
+   "Cumulative Reasoning with Large Language Models",
+   "ZhiFangDanTai: Fine-Tuning Graph-Based Retrieval-Augmented Generation Model for Traditional Chinese Medicine Formula"
+  ]
+ },
+ "S15": {
+  "query": "predicting a patient's condition by feeding a clinical network into a text model",
+  "gold": [
+   "https://openalex.org/W4404138521"
+  ],
+  "gold_titles": [
+   "Leveraging Medical Knowledge Graphs Into Large Language Models for Diagnosis Prediction: Design and Application Study"
+  ],
+  "top10": [
+   "https://openalex.org/W4407566321",
+   "https://openalex.org/W4404138521",
+   "https://openalex.org/W4409386825",
+   "https://openalex.org/W4402813529",
+   "https://openalex.org/W4411429656",
+   "https://openalex.org/W4415061514",
+   "https://openalex.org/W4406748499",
+   "https://openalex.org/W4411949398",
+   "https://openalex.org/W4388032035",
+   "https://openalex.org/W4321021687"
+  ],
+  "top10_titles": [
+   "Fast Virtual Stenting for Thoracic Endovascular Aortic Repair of Aortic Dissection Using Graph Deep Learning",
+   "Leveraging Medical Knowledge Graphs Into Large Language Models for Diagnosis Prediction: Design and Application Study",
+   "Detecting emergencies in patient portal messages using large language models and knowledge graph-based retrieval-augmented generation",
+   "Large‐language‐model empowered 3D dose prediction for intensity‐modulated radiotherapy",
+   "LLM-Prop: predicting the properties of crystalline materials using large language models",
+   "DEMENTIA-PLAN: An Agent-Based Framework for Multi-Knowledge Graph Retrieval-Augmented Generation in Dementia Care",
+   "SpatialPPIv2: Enhancing protein–protein interaction prediction through graph neural networks with protein language models",
+   "LLM-DDI: Leveraging Large Language Models for Drug-Drug Interaction Prediction on Biomedical Knowledge Graph",
+   "Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs",
+   "Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation"
+  ]
+ },
+ "S16": {
+  "query": "how performance of learned models varies with the amount of training data in the chemical domain",
+  "gold": [
+   "https://openalex.org/W4387874094"
+  ],
+  "gold_titles": [
+   "Neural scaling of deep chemical models"
+  ],
+  "top10": [
+   "https://openalex.org/W4387874094",
+   "https://openalex.org/W4387171349",
+   "https://openalex.org/W4390824394",
+   "https://openalex.org/W7164842051",
+   "https://openalex.org/W4389325826",
+   "https://openalex.org/W4392089947",
+   "https://openalex.org/W4281619372",
+   "https://openalex.org/W4403444190",
+   "https://openalex.org/W4400262563",
+   "https://openalex.org/W4405253182"
+  ],
+  "top10_titles": [
+   "Neural scaling of deep chemical models",
+   "Language Models as Controlled Natural Language Semantic Parsers for Knowledge Graph Question Answering",
+   "Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design",
+   "A survey of models composed of graph neural networks and large language models for molecular science",
+   "On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs",
+   "UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs",
+   "Language models can learn complex molecular distributions",
+   "GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation",
+   "Knowledge graph construction for heart failure using large language models with prompt engineering",
+   "OmEGa( Ω ): Ontology-based information extraction framework for constructing task-centric knowledge graph from manufacturing documents with large language model"
+  ]
+ },
+ "S17": {
+  "query": "a robot that builds a changing spatial map from captions in order to locate objects",
+  "gold": [
+   "https://openalex.org/W4392866655"
+  ],
+  "gold_titles": [
+   "Language-Grounded Dynamic Scene Graphs for Interactive Object Search With Mobile Manipulation"
+  ],
+  "top10": [
+   "https://openalex.org/W4411343030",
+   "https://openalex.org/W4226391640",
+   "https://openalex.org/W7128926176",
+   "https://openalex.org/W4413397855",
+   "https://openalex.org/W4398757510",
+   "https://openalex.org/W4410191504",
+   "https://openalex.org/W4415110225",
+   "https://openalex.org/W4322576830",
+   "https://openalex.org/W7166888040",
+   "https://openalex.org/W4403347014"
+  ],
+  "top10_titles": [
+   "Large language model-guided graph convolution network reasoning system for complex human-robot collaboration disassembly operations",
+   "Hierarchical Feature Aggregation Based on Transformer for Image-Text Matching",
+   "CARAG: Context-Aware Retrieval-Augmented Generation for Railway Operation and Maintenance Question Answering over Spatial Knowledge Graph",
+   "A survey on autonomous navigation for mobile robots: From traditional techniques to deep learning and large language models",
+   "Scene Graph-Aware Hierarchical Fusion Network for Remote Sensing Image Retrieval With Text Feedback",
+   "Addressing the information silo of construction planning constraints – a graph retrieval augmented generation approach",
+   "H$^2$GFM: Towards unifying Homogeneity and Heterogeneity on Text-Attributed Graphs",
+   "Deep Tabular Data Modeling With Dual-Route Structure-Adaptive Graph Networks",
+   "TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning",
+   "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+  ]
+ },
+ "S18": {
+  "query": "spotting manipulative referencing behaviour using learned representations of a citation network",
+  "gold": [
+   "https://openalex.org/W4210988752"
+  ],
+  "gold_titles": [
+   "Deep Graph Learning for Anomalous Citation Detection"
+  ],
+  "top10": [
+   "https://openalex.org/W4210988752",
+   "https://openalex.org/W4411949398",
+   "https://openalex.org/W4387560223",
+   "https://openalex.org/W4407687339",
+   "https://openalex.org/W4389325826",
+   "https://openalex.org/W4390824394",
+   "https://openalex.org/W4387874094",
+   "https://openalex.org/W4398223058",
+   "https://openalex.org/W4386556102",
+   "https://openalex.org/W4392089947"
+  ],
+  "top10_titles": [
+   "Deep Graph Learning for Anomalous Citation Detection",
+   "LLM-DDI: Leveraging Large Language Models for Drug-Drug Interaction Prediction on Biomedical Knowledge Graph",
+   "Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution",
+   "LLM-driven Knowledge Distillation for Dynamic Text-Attributed Graphs",
+   "On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs",
+   "Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design",
+   "Neural scaling of deep chemical models",
+   "MolPROP: Molecular Property prediction with multimodal language and graph fusion",
+   "Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs",
+   "UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs"
+  ]
+ },
+ "S19": {
+  "query": "a review tracing the evolution of very large pretrained architectures across different modalities",
+  "gold": [
+   "https://openalex.org/W4321472314"
+  ],
+  "gold_titles": [
+   "A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT"
+  ],
+  "top10": [
+   "https://openalex.org/W4321472314",
+   "https://openalex.org/W4409158865",
+   "https://openalex.org/W4398223058",
+   "https://openalex.org/W7117164823",
+   "https://openalex.org/W4391710079",
+   "https://openalex.org/W4416948017",
+   "https://openalex.org/W4386250621",
+   "https://openalex.org/W7123360579",
+   "https://openalex.org/W4226281578",
+   "https://openalex.org/W4409634738"
+  ],
+  "top10_titles": [
+   "A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT",
+   "Difficulty aware programming knowledge tracing via large language models",
+   "MolPROP: Molecular Property prediction with multimodal language and graph fusion",
+   "Dynamic Text-Attributed Graphs and Learning Models for Community Evolution: A Survey of Recent Advances",
+   "Large Language Model Meets Graph Neural Network in Knowledge Distillation",
+   "Accelerated Discovery of Energy Materials via Graph Neural Network",
+   "Generative pretrained autoregressive transformer graph neural network applied to the analysis and discovery of novel proteins",
+   "Agentic Graph Neural Networks for Wireless Communications and Networking Toward Edge General Intelligence: A Survey",
+   "GreaseLM: Graph REASoning Enhanced Language Models for Question Answering",
+   "Knowledge Graphs and Their Reciprocal Relationship with Large Language Models"
+  ]
+ },
+ "S20": {
+  "query": "showing that autoregressive text architectures can capture the distribution of chemical graphs",
+  "gold": [
+   "https://openalex.org/W4281619372"
+  ],
+  "gold_titles": [
+   "Language models can learn complex molecular distributions"
+  ],
+  "top10": [
+   "https://openalex.org/W4387874094",
+   "https://openalex.org/W7164842051",
+   "https://openalex.org/W7154447653",
+   "https://openalex.org/W4386250621",
+   "https://openalex.org/W4281619372",
+   "https://openalex.org/W4321472314",
+   "https://openalex.org/W4405254610",
+   "https://openalex.org/W7214741188",
+   "https://openalex.org/W4401722919",
+   "https://openalex.org/W4416948017"
+  ],
+  "top10_titles": [
+   "Neural scaling of deep chemical models",
+   "A survey of models composed of graph neural networks and large language models for molecular science",
+   "Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning",
+   "Generative pretrained autoregressive transformer graph neural network applied to the analysis and discovery of novel proteins",
+   "Language models can learn complex molecular distributions",
+   "A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT",
+   "GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model",
+   "Transfer Learning for Edge Classification on Dynamic Text-Attributed Graphs",
+   "Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning",
+   "Accelerated Discovery of Energy Materials via Graph Neural Network"
+  ]
+ },
+ "C01": {
+  "query": "Which papers cite the work titled \"Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Aware Language Modeling\"?",
+  "gold": [
+   "https://openalex.org/W4406128867",
+   "https://openalex.org/W4408013061",
+   "https://openalex.org/W4409726361",
+   "https://openalex.org/W4412161914",
+   "https://openalex.org/W4412465717",
+   "https://openalex.org/W4413418658"
+  ],
+  "gold_titles": [
+   "Research on a traditional Chinese medicine case-based question-answering system integrating large language models and knowledge graphs",
+   "Construction of a knowledge graph for framework material enabled by large language models and its application",
+   "An automatic machine fault identification method using the knowledge graph–embedded large language model",
+   "Large Language Models for Knowledge Graph Embedding: A Survey",
+   "Practices, opportunities and challenges in the fusion of knowledge graphs and large language models"
+  ],
+  "top10": [
+   "https://openalex.org/W4391407054",
+   "https://openalex.org/W4387560223",
+   "https://openalex.org/W4387158126",
+   "https://openalex.org/W4410086438",
+   "https://openalex.org/W4409640658",
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4389325826",
+   "https://openalex.org/W4386556710",
+   "https://openalex.org/W4386081161",
+   "https://openalex.org/W4399657455"
+  ],
+  "top10_titles": [
+   "Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Aware Language Modeling",
+   "Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution",
+   "Graph Neural Prompting with Large Language Models",
+   "TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking",
+   "Double-Feedback: Enhancing Large Language Models Reasoning in Robotic Tasks by Knowledge Graphs",
+   "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+   "On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs",
+   "ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning",
+   "Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?",
+   "Research Trends for the Interplay between Large Language Models and Knowledge Graphs"
+  ]
+ },
+ "C02": {
+  "query": "Which papers cite the work titled \"KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph\"?",
+  "gold": [
+   "https://openalex.org/W4404688293",
+   "https://openalex.org/W4407596815",
+   "https://openalex.org/W4409316345"
+  ],
+  "gold_titles": [
+   "Leveraging Non-Parametric Reasoning With Large Language Models for Enhanced Knowledge Graph Completion",
+   "Large language models can better understand knowledge graphs than we thought",
+   "Intelligent Fault Diagnosis for CNC Through the Integration of Large Language Models and Domain Knowledge Graphs"
+  ],
+  "top10": [
+   "https://openalex.org/W4400222836",
+   "https://openalex.org/W4406783055",
+   "https://openalex.org/W4404688293",
+   "https://openalex.org/W4388788707",
+   "https://openalex.org/W4387799827",
+   "https://openalex.org/W4367860080",
+   "https://openalex.org/W4403579106",
+   "https://openalex.org/W4411949398",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4226281578"
+  ],
+  "top10_titles": [
+   "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph",
+   "ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning",
+   "Leveraging Non-Parametric Reasoning With Large Language Models for Enhanced Knowledge Graph Completion",
+   "Leveraging LLMs in Scholarly Knowledge Graph Question Answering",
+   "KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models",
+   "Complex Logical Reasoning over Knowledge Graphs using Large Language Models",
+   "Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models",
+   "LLM-DDI: Leveraging Large Language Models for Drug-Drug Interaction Prediction on Biomedical Knowledge Graph",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "GreaseLM: Graph REASoning Enhanced Language Models for Question Answering"
+  ]
+ },
+ "C03": {
+  "query": "Which papers cite the work titled \"X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design\"?",
+  "gold": [
+   "https://openalex.org/W4404708476",
+   "https://openalex.org/W4410374120",
+   "https://openalex.org/W4411023341",
+   "https://openalex.org/W4411149009"
+  ],
+  "gold_titles": [
+   "BioMedGPT: An Open Multimodal Large Language Model for BioMedicine",
+   "PRefLexOR: preference-based recursive language modeling for exploratory optimization of reasoning and agentic thinking",
+   "A review on enhancing agricultural intelligence with large language models",
+   "In Situ Graph Reasoning and Knowledge Expansion Using Graph‐PRefLexOR"
+  ],
+  "top10": [
+   "https://openalex.org/W4398777692",
+   "https://openalex.org/W4407761215",
+   "https://openalex.org/W4311179098",
+   "https://openalex.org/W4402953189",
+   "https://openalex.org/W4281619372",
+   "https://openalex.org/W4404708476",
+   "https://openalex.org/W4387773384",
+   "https://openalex.org/W7164842051",
+   "https://openalex.org/W4405623238",
+   "https://openalex.org/W4413110846"
+  ],
+  "top10_titles": [
+   "X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design",
+   "Building an intelligent diabetes Q&A system with knowledge graphs and large language models",
+   "Illuminating protein space with a programmable generative model",
+   "Enhancing Event Reasoning in Large Language Models through Instruction Fine-Tuning with Semantic Causal Graphs",
+   "Language models can learn complex molecular distributions",
+   "BioMedGPT: An Open Multimodal Large Language Model for BioMedicine",
+   "MechGPT, a Language-Based Strategy for Mechanics and Materials Modeling That Connects Knowledge Across Scales, Disciplines, and Modalities",
+   "A survey of models composed of graph neural networks and large language models for molecular science",
+   "GIDCL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models",
+   "GS-DTI: a graph-structure-aware framework leveraging large language models for drug–target interaction prediction"
+  ]
+ },
+ "C04": {
+  "query": "Which papers cite the work titled \"Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly\"?",
+  "gold": [
+   "https://openalex.org/W4403680948",
+   "https://openalex.org/W4409316345",
+   "https://openalex.org/W4409726361",
+   "https://openalex.org/W4412161914",
+   "https://openalex.org/W4412465717"
+  ],
+  "gold_titles": [
+   "Construction of Legal Knowledge Graph Based on Knowledge-Enhanced Large Language Models",
+   "Intelligent Fault Diagnosis for CNC Through the Integration of Large Language Models and Domain Knowledge Graphs",
+   "An automatic machine fault identification method using the knowledge graph–embedded large language model",
+   "Large Language Models for Knowledge Graph Embedding: A Survey",
+   "Practices, opportunities and challenges in the fusion of knowledge graphs and large language models"
+  ],
+  "top10": [
+   "https://openalex.org/W4392607872",
+   "https://openalex.org/W4408046274",
+   "https://openalex.org/W4409726361",
+   "https://openalex.org/W4409316345",
+   "https://openalex.org/W4386952120",
+   "https://openalex.org/W4387909235",
+   "https://openalex.org/W7133964346",
+   "https://openalex.org/W4401540959",
+   "https://openalex.org/W7118724276",
+   "https://openalex.org/W4403680948"
+  ],
+  "top10_titles": [
+   "Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly",
+   "A knowledge-graph enhanced large language model-based fault diagnostic reasoning and maintenance decision support pipeline towards industry 5.0",
+   "An automatic machine fault identification method using the knowledge graph–embedded large language model",
+   "Intelligent Fault Diagnosis for CNC Through the Integration of Large Language Models and Domain Knowledge Graphs",
+   "Intelligent Fault Diagnostic Model for Industrial Equipment Based on Multimodal Knowledge Graph",
+   "A question answering system for assembly process of wind turbines based on multi-modal knowledge graph and large language model",
+   "Knowledge extraction and retrieval-augmented generation for intelligent maintenance of wind power equipment based on graph attention networks",
+   "Intelligent Checking Method for Construction Schemes via Fusion of Knowledge Graph and Large Language Models",
+   "Retrieval-Augmented Graph Reasoning with Large Language Models for Explainable Incident Diagnosis",
+   "Construction of Legal Knowledge Graph Based on Knowledge-Enhanced Large Language Models"
+  ]
+ },
+ "C05": {
+  "query": "Which papers cite the work titled \"Exploring the Potential of Large Language Models (LLMs)in Learning on Graphs\"?",
+  "gold": [
+   "https://openalex.org/W4387560121",
+   "https://openalex.org/W4402813529",
+   "https://openalex.org/W4402915290",
+   "https://openalex.org/W4404125323",
+   "https://openalex.org/W4408183463",
+   "https://openalex.org/W4409010179",
+   "https://openalex.org/W4409634738",
+   "https://openalex.org/W4410120638",
+   "https://openalex.org/W4412999927",
+   "https://openalex.org/W4416379250",
+   "https://openalex.org/W7129489580"
+  ],
+  "gold_titles": [
+   "Integrating Graphs With Large Language Models: Methods and Prospects",
+   "Large‐language‐model empowered 3D dose prediction for intensity‐modulated radiotherapy",
+   "Large Language Models on Graphs: A Comprehensive Survey",
+   "Large Language Models for Link Stealing Attacks Against Graph Neural Networks",
+   "Graph Foundation Models: Concepts, Opportunities and Challenges"
+  ],
+  "top10": [
+   "https://openalex.org/W4393277515",
+   "https://openalex.org/W4387158126",
+   "https://openalex.org/W4399657455",
+   "https://openalex.org/W4411023341",
+   "https://openalex.org/W4389325826",
+   "https://openalex.org/W4293709080",
+   "https://openalex.org/W4402047531",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4402352041",
+   "https://openalex.org/W4392085131"
+  ],
+  "top10_titles": [
+   "Exploring the Potential of Large Language Models (LLMs)in Learning on Graphs",
+   "Graph Neural Prompting with Large Language Models",
+   "Research Trends for the Interplay between Large Language Models and Knowledge Graphs",
+   "A review on enhancing agricultural intelligence with large language models",
+   "On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs",
+   "Heri-Graphs: A Dataset Creation Framework for Multi-Modal Machine Learning on Graphs of Heritage Values and Attributes with Social Media",
+   "Multilingual question answering systems for knowledge graphs – a survey",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "Exploring the Answering Capability of Large Language Models in Addressing Complex Knowledge in Entrepreneurship Education",
+   "Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text"
+  ]
+ },
+ "C06": {
+  "query": "Which papers cite the work titled \"MechGPT, a Language-Based Strategy for Mechanics and Materials Modeling That Connects Knowledge Across Scales, Disciplines, and Modalities\"?",
+  "gold": [
+   "https://openalex.org/W4390824394",
+   "https://openalex.org/W4398777692",
+   "https://openalex.org/W4401722919",
+   "https://openalex.org/W4404708476",
+   "https://openalex.org/W4410374120"
+  ],
+  "gold_titles": [
+   "Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design",
+   "X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design",
+   "Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning",
+   "BioMedGPT: An Open Multimodal Large Language Model for BioMedicine",
+   "PRefLexOR: preference-based recursive language modeling for exploratory optimization of reasoning and agentic thinking"
+  ],
+  "top10": [
+   "https://openalex.org/W4387773384",
+   "https://openalex.org/W4390824394",
+   "https://openalex.org/W4398777692",
+   "https://openalex.org/W4401722919",
+   "https://openalex.org/W4386250621",
+   "https://openalex.org/W4411149009",
+   "https://openalex.org/W7169763511",
+   "https://openalex.org/W4402047531",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4323338311"
+  ],
+  "top10_titles": [
+   "MechGPT, a Language-Based Strategy for Mechanics and Materials Modeling That Connects Knowledge Across Scales, Disciplines, and Modalities",
+   "Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design",
+   "X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design",
+   "Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning",
+   "Generative pretrained autoregressive transformer graph neural network applied to the analysis and discovery of novel proteins",
+   "In Situ Graph Reasoning and Knowledge Expansion Using Graph‐PRefLexOR",
+   "Integrating graphs, large language models, and agents: Reasoning and retrieval",
+   "Multilingual question answering systems for knowledge graphs – a survey",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "Detecting Offensive Language Based on Graph Attention Networks and Fusion Features"
+  ]
+ },
+ "C07": {
+  "query": "Which papers cite the work titled \"Graph retrieval augmented large language models for facial phenotype associated rare genetic disease\"?",
+  "gold": [
+   "https://openalex.org/W4416718508",
+   "https://openalex.org/W7164392013"
+  ],
+  "gold_titles": [
+   "KA-RAG: Integrating Knowledge Graphs and Agentic Retrieval-Augmented Generation for an Intelligent Educational Question-Answering Model",
+   "Augmenting large language models with clinical knowledge graph for personalized perioperative fluid therapy question answering"
+  ],
+  "top10": [
+   "https://openalex.org/W4413472998",
+   "https://openalex.org/W4410086438",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4416023945",
+   "https://openalex.org/W4406840433",
+   "https://openalex.org/W4405288416",
+   "https://openalex.org/W4401581523",
+   "https://openalex.org/W4399115692",
+   "https://openalex.org/W4400718844",
+   "https://openalex.org/W4389475249"
+  ],
+  "top10_titles": [
+   "Graph retrieval augmented large language models for facial phenotype associated rare genetic disease",
+   "TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "Plan of Knowledge: Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering",
+   "A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models",
+   "Integrating Graph Retrieval-Augmented Generation With Large Language Models for Supplier Discovery",
+   "Implementation of Large Language Models and Agricultural Knowledge Graphs for Efficient Plant Disease Detection",
+   "GRAG: Graph Retrieval-Augmented Generation",
+   "Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation",
+   "GPT-Assisted Learning of Structure–Property Relationships by Graph Neural Networks: Application to Rare-Earth-Doped Phosphors"
+  ]
+ },
+ "C08": {
+  "query": "Which papers cite the work titled \"Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design\"?",
+  "gold": [
+   "https://openalex.org/W4398777692",
+   "https://openalex.org/W4401722919",
+   "https://openalex.org/W4413472998",
+   "https://openalex.org/W4415966790"
+  ],
+  "gold_titles": [
+   "X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design",
+   "Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning",
+   "Graph retrieval augmented large language models for facial phenotype associated rare genetic disease",
+   "Rapid and automated alloy design with graph neural network-powered large language model-driven multi-agent AI"
+  ],
+  "top10": [
+   "https://openalex.org/W4390824394",
+   "https://openalex.org/W4413737842",
+   "https://openalex.org/W4386250621",
+   "https://openalex.org/W7163062301",
+   "https://openalex.org/W4415966790",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W7169763511",
+   "https://openalex.org/W4407551930",
+   "https://openalex.org/W4387773384",
+   "https://openalex.org/W4411149009"
+  ],
+  "top10_titles": [
+   "Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design",
+   "AI-augmented systems engineering: conceptual application of retrieval-augmented generation for model-based systems engineering graph",
+   "Generative pretrained autoregressive transformer graph neural network applied to the analysis and discovery of novel proteins",
+   "Constructing Multimodal Wireless Knowledge Graphs for Large Language Model–Based Network Reasoning",
+   "Rapid and automated alloy design with graph neural network-powered large language model-driven multi-agent AI",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "Integrating graphs, large language models, and agents: Reasoning and retrieval",
+   "Explainable Synthesizability Prediction of Inorganic Crystal Polymorphs Using Large Language Models",
+   "MechGPT, a Language-Based Strategy for Mechanics and Materials Modeling That Connects Knowledge Across Scales, Disciplines, and Modalities",
+   "In Situ Graph Reasoning and Knowledge Expansion Using Graph‐PRefLexOR"
+  ]
+ },
+ "C09": {
+  "query": "Which papers cite the work titled \"MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models\"?",
+  "gold": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4399790320"
+  ],
+  "gold_titles": [
+   "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+   "Large Knowledge Model: Perspectives and Challenges"
+  ],
+  "top10": [
+   "https://openalex.org/W4386113654",
+   "https://openalex.org/W4406783055",
+   "https://openalex.org/W4386148087",
+   "https://openalex.org/W4386044294",
+   "https://openalex.org/W4399305008",
+   "https://openalex.org/W4377111679",
+   "https://openalex.org/W4406337737",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4387158126",
+   "https://openalex.org/W4402047531"
+  ],
+  "top10_titles": [
+   "MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models",
+   "ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning",
+   "Knowledge Graph Prompting for Multi-Document Question Answering",
+   "Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought",
+   "KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models",
+   "Can Language Models Solve Graph Problems in Natural Language?",
+   "Evaluating the effectiveness of prompt engineering for knowledge graph question answering",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "Graph Neural Prompting with Large Language Models",
+   "Multilingual question answering systems for knowledge graphs – a survey"
+  ]
+ },
+ "C10": {
+  "query": "Which papers cite the work titled \"Graph Retrieval-Augmented Generation: A Survey\"?",
+  "gold": [
+   "https://openalex.org/W4412452924",
+   "https://openalex.org/W4412465717",
+   "https://openalex.org/W7169763511"
+  ],
+  "gold_titles": [
+   "GeoGraphRAG: A graph-based retrieval-augmented generation approach for empowering large language models in automated geospatial modeling",
+   "Practices, opportunities and challenges in the fusion of knowledge graphs and large language models",
+   "Integrating graphs, large language models, and agents: Reasoning and retrieval"
+  ],
+  "top10": [
+   "https://openalex.org/W4406840433",
+   "https://openalex.org/W4416379250",
+   "https://openalex.org/W4399115692",
+   "https://openalex.org/W4412923497",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4405288416",
+   "https://openalex.org/W4406139250",
+   "https://openalex.org/W4417097190",
+   "https://openalex.org/W4400718844",
+   "https://openalex.org/W7133118333"
+  ],
+  "top10_titles": [
+   "A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models",
+   "Graph Retrieval-Augmented Generation: A Survey",
+   "GRAG: Graph Retrieval-Augmented Generation",
+   "Multilingual graph retrieval-augmented generation for product design using design knowledge",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "Integrating Graph Retrieval-Augmented Generation With Large Language Models for Supplier Discovery",
+   "Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation",
+   "When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation",
+   "Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation",
+   "Research on graph-retrieval augmented generation based on historical text knowledge graphs"
+  ]
+ },
+ "C11": {
+  "query": "Which papers cite the work titled \"KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models\"?",
+  "gold": [
+   "https://openalex.org/W4406783055",
+   "https://openalex.org/W4414925442",
+   "https://openalex.org/W4415400381",
+   "https://openalex.org/W4416354085"
+  ],
+  "gold_titles": [
+   "ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning",
+   "MEGA-RAG: a retrieval-augmented generation framework with multi-evidence guided answer refinement for mitigating hallucinations of LLMs in public health",
+   "Improving Large Language Model Applications in the Medical and Nursing Domains With Retrieval-Augmented Generation: Scoping Review",
+   "Knowledge graph-extended retrieval augmented generation for question answering"
+  ],
+  "top10": [
+   "https://openalex.org/W4399305008",
+   "https://openalex.org/W4415707175",
+   "https://openalex.org/W4385774107",
+   "https://openalex.org/W4408184619",
+   "https://openalex.org/W4406098046",
+   "https://openalex.org/W7131634290",
+   "https://openalex.org/W4402567773",
+   "https://openalex.org/W7143536450",
+   "https://openalex.org/W7163062301",
+   "https://openalex.org/W4389260555"
+  ],
+  "top10_titles": [
+   "KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models",
+   "A Retrieval-Augmented Generation Framework Based on a Knowledge Graph of Cybersecurity Vulnerabilities in Power Networks",
+   "Cumulative Reasoning with Large Language Models",
+   "Knowledge graph enhanced retrieval-augmented generation for failure mode and effects analysis",
+   "Knowledge graph–based thought: a knowledge graph–enhanced LLM framework for pan-cancer question answering",
+   "DualGraphRAG: A Dual-View Graph-Enhanced Retrieval-Augmented Generation Framework for Reliable and Efficient Question Answering",
+   "Biomedical knowledge graph-optimized prompt generation for large language models",
+   "HG-RAG: Hierarchical Graph-Enhanced Retrieval-Augmented Generation for Power Systems",
+   "Constructing Multimodal Wireless Knowledge Graphs for Large Language Model–Based Network Reasoning",
+   "How to Build an Adaptive AI Tutor for Any Course Using Knowledge Graph-Enhanced Retrieval-Augmented Generation (KG-RAG)"
+  ]
+ },
+ "C12": {
+  "query": "Which papers cite the work titled \"Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning\"?",
+  "gold": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4406098046",
+   "https://openalex.org/W4412465717"
+  ],
+  "gold_titles": [
+   "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+   "Knowledge graph–based thought: a knowledge graph–enhanced LLM framework for pan-cancer question answering",
+   "Practices, opportunities and challenges in the fusion of knowledge graphs and large language models"
+  ],
+  "top10": [
+   "https://openalex.org/W4387322659",
+   "https://openalex.org/W4386081833",
+   "https://openalex.org/W4404087975",
+   "https://openalex.org/W4400718844",
+   "https://openalex.org/W4394737070",
+   "https://openalex.org/W4387559176",
+   "https://openalex.org/W4403579106",
+   "https://openalex.org/W4400064782",
+   "https://openalex.org/W4411156435",
+   "https://openalex.org/W4399026201"
+  ],
+  "top10_titles": [
+   "Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning",
+   "Enhancing Recommender Systems with Large Language Model Reasoning Graphs",
+   "Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning",
+   "Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation",
+   "Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs",
+   "Talk like a Graph: Encoding Graphs for Large Language Models",
+   "Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models",
+   "DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph",
+   "Dynamic Vulnerability Knowledge Graph Construction via Multi-Source Data Fusion and Large Language Model Reasoning",
+   "FiDeLiS: Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering"
+  ]
+ },
+ "C13": {
+  "query": "Which papers cite the work titled \"Biomedical knowledge graph-optimized prompt generation for large language models\"?",
+  "gold": [
+   "https://openalex.org/W4405288416",
+   "https://openalex.org/W4414925442",
+   "https://openalex.org/W4415400381",
+   "https://openalex.org/W4417160556"
+  ],
+  "gold_titles": [
+   "Integrating Graph Retrieval-Augmented Generation With Large Language Models for Supplier Discovery",
+   "MEGA-RAG: a retrieval-augmented generation framework with multi-evidence guided answer refinement for mitigating hallucinations of LLMs in public health",
+   "Improving Large Language Model Applications in the Medical and Nursing Domains With Retrieval-Augmented Generation: Scoping Review",
+   "Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Biomedical Question Answering"
+  ],
+  "top10": [
+   "https://openalex.org/W4402567773",
+   "https://openalex.org/W4406783055",
+   "https://openalex.org/W4411949398",
+   "https://openalex.org/W4404708476",
+   "https://openalex.org/W4392616920",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4405288416",
+   "https://openalex.org/W4404048128",
+   "https://openalex.org/W4417160556",
+   "https://openalex.org/W4406098046"
+  ],
+  "top10_titles": [
+   "Biomedical knowledge graph-optimized prompt generation for large language models",
+   "ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning",
+   "LLM-DDI: Leveraging Large Language Models for Drug-Drug Interaction Prediction on Biomedical Knowledge Graph",
+   "BioMedGPT: An Open Multimodal Large Language Model for BioMedicine",
+   "Advancing Chinese biomedical text mining with community challenges",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "Integrating Graph Retrieval-Augmented Generation With Large Language Models for Supplier Discovery",
+   "An Accurate and Efficient Approach to Knowledge Extraction from Scientific Publications Using Structured Ontology Models, Graph Neural Networks, and Large Language Models",
+   "Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Biomedical Question Answering",
+   "Knowledge graph–based thought: a knowledge graph–enhanced LLM framework for pan-cancer question answering"
+  ]
+ },
+ "C14": {
+  "query": "Which papers cite the work titled \"Large Language Models for Link Stealing Attacks Against Graph Neural Networks\"?",
+  "gold": [
+   "https://openalex.org/W4410120638",
+   "https://openalex.org/W4412567559"
+  ],
+  "gold_titles": [
+   "Graph Machine Learning in the Era of Large Language Models (LLMs)",
+   "Large Language Models Merging for Enhancing the Link Stealing Attack on Graph Neural Networks"
+  ],
+  "top10": [
+   "https://openalex.org/W4404125323",
+   "https://openalex.org/W4412567559",
+   "https://openalex.org/W4407215814",
+   "https://openalex.org/W4387158126",
+   "https://openalex.org/W4389132760",
+   "https://openalex.org/W4210988752",
+   "https://openalex.org/W4409010179",
+   "https://openalex.org/W4313930684",
+   "https://openalex.org/W4415962875",
+   "https://openalex.org/W7166888040"
+  ],
+  "top10_titles": [
+   "Large Language Models for Link Stealing Attacks Against Graph Neural Networks",
+   "Large Language Models Merging for Enhancing the Link Stealing Attack on Graph Neural Networks",
+   "Optimizing Electric Vehicles Charging using Large Language Models and Graph Neural Networks",
+   "Graph Neural Prompting with Large Language Models",
+   "Temporal graph learning for dynamic link prediction with text in online social networks",
+   "Deep Graph Learning for Anomalous Citation Detection",
+   "Large Language Models Meet Graph Neural Networks: A Perspective of Graph Mining",
+   "Topics as Entity Clusters: Entity-based Topics from Large Language Models and Graph Neural Networks",
+   "Robustness in Text-Attributed Graph Learning: Insights, Trade-offs, and New Defenses",
+   "TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning"
+  ]
+ },
+ "C15": {
+  "query": "Which papers cite the work titled \"A medical question answering system using large language models and knowledge graphs\"?",
+  "gold": [
+   "https://openalex.org/W4395049441",
+   "https://openalex.org/W4407856367",
+   "https://openalex.org/W4412465717"
+  ],
+  "gold_titles": [
+   "Augmented non-hallucinating large language models as medical information curators",
+   "Empowering LLMs by hybrid retrieval-augmented generation for domain-centric Q&A in smart manufacturing",
+   "Practices, opportunities and challenges in the fusion of knowledge graphs and large language models"
+  ],
+  "top10": [
+   "https://openalex.org/W4285020859",
+   "https://openalex.org/W4407761215",
+   "https://openalex.org/W4396600459",
+   "https://openalex.org/W4388685698",
+   "https://openalex.org/W4412972770",
+   "https://openalex.org/W4226281578",
+   "https://openalex.org/W4401979966",
+   "https://openalex.org/W4402047531",
+   "https://openalex.org/W4407855931",
+   "https://openalex.org/W4399657455"
+  ],
+  "top10_titles": [
+   "A medical question answering system using large language models and knowledge graphs",
+   "Building an intelligent diabetes Q&A system with knowledge graphs and large language models",
+   "Multi-hop Question Answering over Knowledge Graphs using Large Language Models",
+   "A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases",
+   "Retrieval-Augmented Question Answering System Based on Large Language Models and Knowledge Graphs",
+   "GreaseLM: Graph REASoning Enhanced Language Models for Question Answering",
+   "Prompting Large Language Models with Knowledge-Injection for Knowledge-Based Visual Question Answering",
+   "Multilingual question answering systems for knowledge graphs – a survey",
+   "Osteosarcoma knowledge graph question answering system: deep learning-based knowledge graph and large language model fusion",
+   "Research Trends for the Interplay between Large Language Models and Knowledge Graphs"
+  ]
+ },
+ "C16": {
+  "query": "Which papers cite the work titled \"GraphGPT: Graph Instruction Tuning for Large Language Models\"?",
+  "gold": [
+   "https://openalex.org/W4399790320",
+   "https://openalex.org/W4410120638"
+  ],
+  "gold_titles": [
+   "Large Knowledge Model: Perspectives and Challenges",
+   "Graph Machine Learning in the Era of Large Language Models (LLMs)"
+  ],
+  "top10": [
+   "https://openalex.org/W7125351114",
+   "https://openalex.org/W4387891144",
+   "https://openalex.org/W4413640150",
+   "https://openalex.org/W4392089947",
+   "https://openalex.org/W4392182136",
+   "https://openalex.org/W4402953189",
+   "https://openalex.org/W4392617522",
+   "https://openalex.org/W4392222699",
+   "https://openalex.org/W4394906217",
+   "https://openalex.org/W4387561375"
+  ],
+  "top10_titles": [
+   "Semi-supervised Instruction Tuning for Large Language Models on Text-Attributed Graphs",
+   "GraphGPT: Graph Instruction Tuning for Large Language Models",
+   "Graph-Oriented Instruction Tuning of Large Language Models for Generic Graph Mining",
+   "UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs",
+   "GraphEdit: Large Language Models for Graph Structure Learning",
+   "Enhancing Event Reasoning in Large Language Models through Instruction Fine-Tuning with Semantic Causal Graphs",
+   "GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability",
+   "Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models",
+   "Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering",
+   "Making Large Language Models Perform Better in Knowledge Graph Completion"
+  ]
+ },
+ "C17": {
+  "query": "Which papers cite the work titled \"End-to-End Protein Normal Mode Frequency Predictions Using Language and Graph Models and Application to Sonification\"?",
+  "gold": [
+   "https://openalex.org/W4386250621",
+   "https://openalex.org/W4390824394"
+  ],
+  "gold_titles": [
+   "Generative pretrained autoregressive transformer graph neural network applied to the analysis and discovery of novel proteins",
+   "Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design"
+  ],
+  "top10": [
+   "https://openalex.org/W4309791143",
+   "https://openalex.org/W4408013061",
+   "https://openalex.org/W4416948017",
+   "https://openalex.org/W4390619601",
+   "https://openalex.org/W4398223058",
+   "https://openalex.org/W4396871936",
+   "https://openalex.org/W4382632527",
+   "https://openalex.org/W4377111679",
+   "https://openalex.org/W4391987950",
+   "https://openalex.org/W4391291188"
+  ],
+  "top10_titles": [
+   "End-to-End Protein Normal Mode Frequency Predictions Using Language and Graph Models and Application to Sonification",
+   "Construction of a knowledge graph for framework material enabled by large language models and its application",
+   "Accelerated Discovery of Energy Materials via Graph Neural Network",
+   "DeepRank-GNN-esm: a graph neural network for scoring protein–protein models using protein language model",
+   "MolPROP: Molecular Property prediction with multimodal language and graph fusion",
+   "GPSFun: geometry-aware protein sequence function predictions with language models",
+   "Combining protein sequences and structures with transformers and equivariant graph neural networks to predict protein function",
+   "Can Language Models Solve Graph Problems in Natural Language?",
+   "Distilling Large Language Models for Text-Attributed Graph Learning",
+   "EquiPNAS: improved protein–nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks"
+  ]
+ },
+ "C18": {
+  "query": "Which papers cite the work titled \"UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph\"?",
+  "gold": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4406098046",
+   "https://openalex.org/W4416364791"
+  ],
+  "gold_titles": [
+   "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+   "Knowledge graph–based thought: a knowledge graph–enhanced LLM framework for pan-cancer question answering",
+   "Hierarchical knowledge graph-based QA systems with retrieval-augmented generation"
+  ],
+  "top10": [
+   "https://openalex.org/W4310744116",
+   "https://openalex.org/W4412999927",
+   "https://openalex.org/W4396600459",
+   "https://openalex.org/W4414129035",
+   "https://openalex.org/W4416833779",
+   "https://openalex.org/W4416354085",
+   "https://openalex.org/W4405792520",
+   "https://openalex.org/W4400222836",
+   "https://openalex.org/W4377111679",
+   "https://openalex.org/W7131634290"
+  ],
+  "top10_titles": [
+   "UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph",
+   "SG-RAG MOT: SubGraph Retrieval Augmented Generation with Merging and Ordering Triplets for Knowledge Graph Multi-Hop Question Answering",
+   "Multi-hop Question Answering over Knowledge Graphs using Large Language Models",
+   "GraphTrace: A Modular Retrieval Framework Combining Knowledge Graphs and Large Language Models for Multi-Hop Question Answering",
+   "Bridging dual knowledge graphs for multi-hop question answering in construction safety",
+   "Knowledge graph-extended retrieval augmented generation for question answering",
+   "GeAR: Graph-enhanced Agent for Retrieval-augmented Generation",
+   "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph",
+   "Can Language Models Solve Graph Problems in Natural Language?",
+   "DualGraphRAG: A Dual-View Graph-Enhanced Retrieval-Augmented Generation Framework for Reliable and Efficient Question Answering"
+  ]
+ },
+ "C19": {
+  "query": "Which papers cite the work titled \"Knowledge graph enhanced retrieval-augmented generation for failure mode and effects analysis\"?",
+  "gold": [
+   "https://openalex.org/W4409316345",
+   "https://openalex.org/W4410600121",
+   "https://openalex.org/W4411644483",
+   "https://openalex.org/W7133964346"
+  ],
+  "gold_titles": [
+   "Intelligent Fault Diagnosis for CNC Through the Integration of Large Language Models and Domain Knowledge Graphs",
+   "Document GraphRAG: Knowledge Graph Enhanced Retrieval Augmented Generation for Document Question Answering Within the Manufacturing Domain",
+   "Empowering knowledge graphs with hybrid retrieval-augmented generation for the intelligent mix scheme of mass concrete",
+   "Knowledge extraction and retrieval-augmented generation for intelligent maintenance of wind power equipment based on graph attention networks"
+  ],
+  "top10": [
+   "https://openalex.org/W4408184619",
+   "https://openalex.org/W4389260555",
+   "https://openalex.org/W7143536450",
+   "https://openalex.org/W7131634290",
+   "https://openalex.org/W4410600121",
+   "https://openalex.org/W4410764243",
+   "https://openalex.org/W4405713885",
+   "https://openalex.org/W4405792520",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4410191504"
+  ],
+  "top10_titles": [
+   "Knowledge graph enhanced retrieval-augmented generation for failure mode and effects analysis",
+   "How to Build an Adaptive AI Tutor for Any Course Using Knowledge Graph-Enhanced Retrieval-Augmented Generation (KG-RAG)",
+   "HG-RAG: Hierarchical Graph-Enhanced Retrieval-Augmented Generation for Power Systems",
+   "DualGraphRAG: A Dual-View Graph-Enhanced Retrieval-Augmented Generation Framework for Reliable and Efficient Question Answering",
+   "Document GraphRAG: Knowledge Graph Enhanced Retrieval Augmented Generation for Document Question Answering Within the Manufacturing Domain",
+   "DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation",
+   "SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation",
+   "GeAR: Graph-enhanced Agent for Retrieval-augmented Generation",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "Addressing the information silo of construction planning constraints – a graph retrieval augmented generation approach"
+  ]
+ },
+ "C20": {
+  "query": "Which papers cite the work titled \"Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering\"?",
+  "gold": [
+   "https://openalex.org/W4403484624",
+   "https://openalex.org/W4410741869"
+  ],
+  "gold_titles": [
+   "Intelligent question answering for water conservancy project inspection driven by knowledge graph and large language model collaboration",
+   "A question-answering framework for geospatial data retrieval enhanced by a knowledge graph and large language models"
+  ],
+  "top10": [
+   "https://openalex.org/W4379933424",
+   "https://openalex.org/W4406337737",
+   "https://openalex.org/W4386976808",
+   "https://openalex.org/W4388788707",
+   "https://openalex.org/W4390602292",
+   "https://openalex.org/W4388685698",
+   "https://openalex.org/W4402047531",
+   "https://openalex.org/W4407855931",
+   "https://openalex.org/W4399416839",
+   "https://openalex.org/W4307459592"
+  ],
+  "top10_titles": [
+   "Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering",
+   "Evaluating the effectiveness of prompt engineering for knowledge graph question answering",
+   "Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering",
+   "Leveraging LLMs in Scholarly Knowledge Graph Question Answering",
+   "Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs",
+   "A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases",
+   "Multilingual question answering systems for knowledge graphs – a survey",
+   "Osteosarcoma knowledge graph question answering system: deep learning-based knowledge graph and large language model fusion",
+   "UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models",
+   "An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering"
+  ]
+ },
+ "C21": {
+  "query": "Which papers cite the work titled \"Complex Logical Reasoning over Knowledge Graphs using Large Language Models\"?",
+  "gold": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4408046274"
+  ],
+  "gold_titles": [
+   "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+   "A knowledge-graph enhanced large language model-based fault diagnostic reasoning and maintenance decision support pipeline towards industry 5.0"
+  ],
+  "top10": [
+   "https://openalex.org/W4367860080",
+   "https://openalex.org/W4387799827",
+   "https://openalex.org/W4403747232",
+   "https://openalex.org/W4396600459",
+   "https://openalex.org/W4386044294",
+   "https://openalex.org/W4400222836",
+   "https://openalex.org/W4389325826",
+   "https://openalex.org/W4375959300",
+   "https://openalex.org/W4386556710",
+   "https://openalex.org/W4400341288"
+  ],
+  "top10_titles": [
+   "Complex Logical Reasoning over Knowledge Graphs using Large Language Models",
+   "KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models",
+   "Enhancing Logical Reasoning in Large Language Models through Graph-based Synthetic Data",
+   "Multi-hop Question Answering over Knowledge Graphs using Large Language Models",
+   "Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought",
+   "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph",
+   "On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs",
+   "Enhancing Knowledge Graph Construction Using Large Language Models",
+   "ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning",
+   "Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs"
+  ]
+ },
+ "C22": {
+  "query": "Which papers cite the work titled \"A Survey of Knowledge Enhanced Pre-Trained Language Models\"?",
+  "gold": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4391407054",
+   "https://openalex.org/W4400033035",
+   "https://openalex.org/W4406692880",
+   "https://openalex.org/W4410120638"
+  ],
+  "gold_titles": [
+   "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+   "Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Aware Language Modeling",
+   "Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs",
+   "Enhancing In-Context Learning of Large Language Models for Knowledge Graph Reasoning via Rule-and-Reinforce Selected Triples",
+   "Graph Machine Learning in the Era of Large Language Models (LLMs)"
+  ],
+  "top10": [
+   "https://openalex.org/W4386275705",
+   "https://openalex.org/W4391407054",
+   "https://openalex.org/W4392939486",
+   "https://openalex.org/W4307459592",
+   "https://openalex.org/W4391709523",
+   "https://openalex.org/W4402047531",
+   "https://openalex.org/W4409841284",
+   "https://openalex.org/W4412585080",
+   "https://openalex.org/W4387356334",
+   "https://openalex.org/W4387158126"
+  ],
+  "top10_titles": [
+   "A Survey of Knowledge Enhanced Pre-Trained Language Models",
+   "Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Aware Language Modeling",
+   "Graph Structure Enhanced Pre-Training Language Model for Knowledge Graph Completion",
+   "An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering",
+   "Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey",
+   "Multilingual question answering systems for knowledge graphs – a survey",
+   "GeoMinLM: A Large Language Model in Geology and Mineral Survey in Yunnan Province",
+   "A lightweight knowledge graph-driven question answering system for field-based mineral resource survey",
+   "Large Language Models Meet Knowledge Graphs to Answer Factoid Questions",
+   "Graph Neural Prompting with Large Language Models"
+  ]
+ },
+ "C23": {
+  "query": "Which papers cite the work titled \"Making Large Language Models Perform Better in Knowledge Graph Completion\"?",
+  "gold": [
+   "https://openalex.org/W4399790320",
+   "https://openalex.org/W4400262563",
+   "https://openalex.org/W4406692880",
+   "https://openalex.org/W4409634738"
+  ],
+  "gold_titles": [
+   "Large Knowledge Model: Perspectives and Challenges",
+   "Knowledge graph construction for heart failure using large language models with prompt engineering",
+   "Enhancing In-Context Learning of Large Language Models for Knowledge Graph Reasoning via Rule-and-Reinforce Selected Triples",
+   "Knowledge Graphs and Their Reciprocal Relationship with Large Language Models"
+  ],
+  "top10": [
+   "https://openalex.org/W4387561375",
+   "https://openalex.org/W4404688293",
+   "https://openalex.org/W4392939486",
+   "https://openalex.org/W4400262563",
+   "https://openalex.org/W4297633153",
+   "https://openalex.org/W4391709523",
+   "https://openalex.org/W4402047531",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4391681328",
+   "https://openalex.org/W7163062301"
+  ],
+  "top10_titles": [
+   "Making Large Language Models Perform Better in Knowledge Graph Completion",
+   "Leveraging Non-Parametric Reasoning With Large Language Models for Enhanced Knowledge Graph Completion",
+   "Graph Structure Enhanced Pre-Training Language Model for Knowledge Graph Completion",
+   "Knowledge graph construction for heart failure using large language models with prompt engineering",
+   "Selective Annotation Makes Language Models Better Few-Shot Learners",
+   "Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey",
+   "Multilingual question answering systems for knowledge graphs – a survey",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "CodeKGC: Code Language Model for Generative Knowledge Graph Construction",
+   "Constructing Multimodal Wireless Knowledge Graphs for Large Language Model–Based Network Reasoning"
+  ]
+ },
+ "C24": {
+  "query": "Which papers cite the work titled \"Unifying Large Language Models and Knowledge Graphs: A Roadmap\"?",
+  "gold": [
+   "https://openalex.org/W4392607872",
+   "https://openalex.org/W4399790320",
+   "https://openalex.org/W4401540959",
+   "https://openalex.org/W4401979966",
+   "https://openalex.org/W4402915290",
+   "https://openalex.org/W4403680948",
+   "https://openalex.org/W4403749687",
+   "https://openalex.org/W4404138521",
+   "https://openalex.org/W4405740130",
+   "https://openalex.org/W4406098046",
+   "https://openalex.org/W4407596815",
+   "https://openalex.org/W4407761215",
+   "https://openalex.org/W4407855931",
+   "https://openalex.org/W4407856367",
+   "https://openalex.org/W4407953340",
+   "https://openalex.org/W4408046274",
+   "https://openalex.org/W4408183463",
+   "https://openalex.org/W4408184619",
+   "https://openalex.org/W4409386825",
+   "https://openalex.org/W4409634738",
+   "https://openalex.org/W4409640658",
+   "https://openalex.org/W4409841284",
+   "https://openalex.org/W4410600121",
+   "https://openalex.org/W4410741869",
+   "https://openalex.org/W4411023341",
+   "https://openalex.org/W4412161914",
+   "https://openalex.org/W4412452924",
+   "https://openalex.org/W4412465717",
+   "https://openalex.org/W4413418658",
+   "https://openalex.org/W4416354085",
+   "https://openalex.org/W4416379250",
+   "https://openalex.org/W7129489580",
+   "https://openalex.org/W7143536450",
+   "https://openalex.org/W7169763511"
+  ],
+  "gold_titles": [
+   "Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly",
+   "Large Knowledge Model: Perspectives and Challenges",
+   "Intelligent Checking Method for Construction Schemes via Fusion of Knowledge Graph and Large Language Models",
+   "Prompting Large Language Models with Knowledge-Injection for Knowledge-Based Visual Question Answering",
+   "Large Language Models on Graphs: A Comprehensive Survey"
+  ],
+  "top10": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4389325826",
+   "https://openalex.org/W4399657455",
+   "https://openalex.org/W4402047531",
+   "https://openalex.org/W4401979966",
+   "https://openalex.org/W4415041019",
+   "https://openalex.org/W4387799827",
+   "https://openalex.org/W4285020859",
+   "https://openalex.org/W4391407054",
+   "https://openalex.org/W4400222836"
+  ],
+  "top10_titles": [
+   "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+   "On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs",
+   "Research Trends for the Interplay between Large Language Models and Knowledge Graphs",
+   "Multilingual question answering systems for knowledge graphs – a survey",
+   "Prompting Large Language Models with Knowledge-Injection for Knowledge-Based Visual Question Answering",
+   "Construction of intelligent decision support systems through integration of retrieval-augmented generation and knowledge graphs",
+   "KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models",
+   "A medical question answering system using large language models and knowledge graphs",
+   "Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Aware Language Modeling",
+   "KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph"
+  ]
+ },
+ "C25": {
+  "query": "Which papers cite the work titled \"Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning\"?",
+  "gold": [
+   "https://openalex.org/W4404708476",
+   "https://openalex.org/W4410374120",
+   "https://openalex.org/W4413472998",
+   "https://openalex.org/W4415966790"
+  ],
+  "gold_titles": [
+   "BioMedGPT: An Open Multimodal Large Language Model for BioMedicine",
+   "PRefLexOR: preference-based recursive language modeling for exploratory optimization of reasoning and agentic thinking",
+   "Graph retrieval augmented large language models for facial phenotype associated rare genetic disease",
+   "Rapid and automated alloy design with graph neural network-powered large language model-driven multi-agent AI"
+  ],
+  "top10": [
+   "https://openalex.org/W4401722919",
+   "https://openalex.org/W4405599065",
+   "https://openalex.org/W4406934871",
+   "https://openalex.org/W4391681328",
+   "https://openalex.org/W4411149009",
+   "https://openalex.org/W4410784978",
+   "https://openalex.org/W4415966790",
+   "https://openalex.org/W7131354032",
+   "https://openalex.org/W4404048128",
+   "https://openalex.org/W7164176243"
+  ],
+  "top10_titles": [
+   "Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning",
+   "SciAgents: Automating Scientific Discovery Through Bioinspired Multi‐Agent Intelligent Graph Reasoning",
+   "Large Language Models Meet Graph Neural Networks for Text-Numeric Graph Reasoning",
+   "CodeKGC: Code Language Model for Generative Knowledge Graph Construction",
+   "In Situ Graph Reasoning and Knowledge Expansion Using Graph‐PRefLexOR",
+   "Augmenting Orbital Debris Identification with Neo4j-Enabled Graph-Based Retrieval-Augmented Generation for Multimodal Large Language Models",
+   "Rapid and automated alloy design with graph neural network-powered large language model-driven multi-agent AI",
+   "Research on an intelligent tutoring system based on automatic construction of multimodal knowledge graphs and retrieval-augmented generation",
+   "An Accurate and Efficient Approach to Knowledge Extraction from Scientific Publications Using Structured Ontology Models, Graph Neural Networks, and Large Language Models",
+   "ERAlign: Energy-based Representation Alignment of GNNs and LLMs on Text-attributed Graphs"
+  ]
+ }
+}

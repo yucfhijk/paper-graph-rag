@@ -1,0 +1,700 @@
+[
+ {
+  "id": "K01",
+  "type": "keyword",
+  "query": "GraCoRe Benchmarking Graph Comprehension Complex Reasoning",
+  "gold": [
+   "https://openalex.org/W4400376199"
+  ]
+ },
+ {
+  "id": "K02",
+  "type": "keyword",
+  "query": "Knowledge graph thought enhanced LLM framework",
+  "gold": [
+   "https://openalex.org/W4406098046"
+  ]
+ },
+ {
+  "id": "K03",
+  "type": "keyword",
+  "query": "Neural scaling deep chemical models",
+  "gold": [
+   "https://openalex.org/W4387874094"
+  ]
+ },
+ {
+  "id": "K04",
+  "type": "keyword",
+  "query": "S2Aligner Pair-Efficient Transferable Pre-Training Sparse Text-Attributed",
+  "gold": [
+   "https://openalex.org/W7161734552"
+  ]
+ },
+ {
+  "id": "K05",
+  "type": "keyword",
+  "query": "Graph retrieval augmented large language models",
+  "gold": [
+   "https://openalex.org/W4413472998"
+  ]
+ },
+ {
+  "id": "K06",
+  "type": "keyword",
+  "query": "Deep Tabular Data Modeling Dual-Route Structure-Adaptive",
+  "gold": [
+   "https://openalex.org/W4322576830"
+  ]
+ },
+ {
+  "id": "K07",
+  "type": "keyword",
+  "query": "G-Retriever Retrieval-Augmented Generation Textual Graph Understanding",
+  "gold": [
+   "https://openalex.org/W4391799277"
+  ]
+ },
+ {
+  "id": "K08",
+  "type": "keyword",
+  "query": "Fast Virtual Stenting Thoracic Endovascular Aortic",
+  "gold": [
+   "https://openalex.org/W4407566321"
+  ]
+ },
+ {
+  "id": "K09",
+  "type": "keyword",
+  "query": "Robustness Text-Attributed Graph Learning Insights Trade-offs",
+  "gold": [
+   "https://openalex.org/W4415962875"
+  ]
+ },
+ {
+  "id": "K10",
+  "type": "keyword",
+  "query": "Nanjing Yunjin intelligent question-answering system knowledge",
+  "gold": [
+   "https://openalex.org/W4394619840"
+  ]
+ },
+ {
+  "id": "K11",
+  "type": "keyword",
+  "query": "LLM-driven Knowledge Distillation Dynamic Text-Attributed Graphs",
+  "gold": [
+   "https://openalex.org/W4407687339"
+  ]
+ },
+ {
+  "id": "K12",
+  "type": "keyword",
+  "query": "GraphRAG-Bench Challenging Domain-Specific Reasoning Evaluating Graph",
+  "gold": [
+   "https://openalex.org/W4417307696"
+  ]
+ },
+ {
+  "id": "K13",
+  "type": "keyword",
+  "query": "Intelligent Fault Diagnostic Model Industrial Equipment",
+  "gold": [
+   "https://openalex.org/W4386952120"
+  ]
+ },
+ {
+  "id": "K14",
+  "type": "keyword",
+  "query": "Structure Guided Prompt Instructing Large Language",
+  "gold": [
+   "https://openalex.org/W4392085131"
+  ]
+ },
+ {
+  "id": "K15",
+  "type": "keyword",
+  "query": "Learning Weak Semantics Feature Graph Attribute-Based",
+  "gold": [
+   "https://openalex.org/W4367663386"
+  ]
+ },
+ {
+  "id": "K16",
+  "type": "keyword",
+  "query": "Leveraging Medical Knowledge Graphs Large Language",
+  "gold": [
+   "https://openalex.org/W4404138521"
+  ]
+ },
+ {
+  "id": "K17",
+  "type": "keyword",
+  "query": "KRAGEN knowledge graph-enhanced RAG framework biomedical",
+  "gold": [
+   "https://openalex.org/W4399305008"
+  ]
+ },
+ {
+  "id": "K18",
+  "type": "keyword",
+  "query": "KnowledgeNavigator leveraging large language models enhanced",
+  "gold": [
+   "https://openalex.org/W4400222836"
+  ]
+ },
+ {
+  "id": "K19",
+  "type": "keyword",
+  "query": "review enhancing agricultural intelligence large language",
+  "gold": [
+   "https://openalex.org/W4411023341"
+  ]
+ },
+ {
+  "id": "K20",
+  "type": "keyword",
+  "query": "Intelligent decision support tunnel fire incidents",
+  "gold": [
+   "https://openalex.org/W7133312528"
+  ]
+ },
+ {
+  "id": "K21",
+  "type": "keyword",
+  "query": "KG-GPT General Framework Reasoning Knowledge Graphs",
+  "gold": [
+   "https://openalex.org/W4387799827"
+  ]
+ },
+ {
+  "id": "K22",
+  "type": "keyword",
+  "query": "Multi-Scale Feature Fusion Graph Neural Network",
+  "gold": [
+   "https://openalex.org/W7104820829"
+  ]
+ },
+ {
+  "id": "K23",
+  "type": "keyword",
+  "query": "MechGPT Language-Based Strategy Mechanics Materials Modeling",
+  "gold": [
+   "https://openalex.org/W4387773384"
+  ]
+ },
+ {
+  "id": "K24",
+  "type": "keyword",
+  "query": "ZhiFangDanTai Fine-Tuning Graph-Based Retrieval-Augmented Generation Model",
+  "gold": [
+   "https://openalex.org/W4417438938"
+  ]
+ },
+ {
+  "id": "K25",
+  "type": "keyword",
+  "query": "PowerGraph-LLM Novel Power Grid Graph Embedding",
+  "gold": [
+   "https://openalex.org/W4413126631"
+  ]
+ },
+ {
+  "id": "K26",
+  "type": "keyword",
+  "query": "TAGLAS atlas text-attributed graph datasets era",
+  "gold": [
+   "https://openalex.org/W4399986615"
+  ]
+ },
+ {
+  "id": "K27",
+  "type": "keyword",
+  "query": "DARG Dynamic Evaluation Large Language Models",
+  "gold": [
+   "https://openalex.org/W4400064782"
+  ]
+ },
+ {
+  "id": "K28",
+  "type": "keyword",
+  "query": "Exploring Concept Subspace Self-explainable Text-Attributed Graph",
+  "gold": [
+   "https://openalex.org/W7154447653"
+  ]
+ },
+ {
+  "id": "K29",
+  "type": "keyword",
+  "query": "Combining LLMs Knowledge Graphs Reduce Hallucinations",
+  "gold": [
+   "https://openalex.org/W4417160556"
+  ]
+ },
+ {
+  "id": "K30",
+  "type": "keyword",
+  "query": "ESCARGOT agent leveraging large language models",
+  "gold": [
+   "https://openalex.org/W4406783055"
+  ]
+ },
+ {
+  "id": "S01",
+  "type": "semantic",
+  "query": "a position paper charting where research should go in merging structured knowledge bases with neural language models",
+  "gold": [
+   "https://openalex.org/W4390692489"
+  ]
+ },
+ {
+  "id": "S02",
+  "type": "semantic",
+  "query": "a system that plugs an external fact store into a text generator so its outputs stay grounded in verified facts",
+  "gold": [
+   "https://openalex.org/W4391407054"
+  ]
+ },
+ {
+  "id": "S03",
+  "type": "semantic",
+  "query": "an overview of models that fuse external structured information into pretrained text encoders",
+  "gold": [
+   "https://openalex.org/W4386275705"
+  ]
+ },
+ {
+  "id": "S04",
+  "type": "semantic",
+  "query": "revisiting how self-supervised objectives should be designed for message-passing networks over chemical structures",
+  "gold": [
+   "https://openalex.org/W4365455552"
+  ]
+ },
+ {
+  "id": "S05",
+  "type": "semantic",
+  "query": "a literature review covering methods that add relational structure into the evidence selection step of a generator",
+  "gold": [
+   "https://openalex.org/W4416379250"
+  ]
+ },
+ {
+  "id": "S06",
+  "type": "semantic",
+  "query": "an overview of work applying text-based models to problems defined over networked data",
+  "gold": [
+   "https://openalex.org/W4402915290"
+  ]
+ },
+ {
+  "id": "S07",
+  "type": "semantic",
+  "query": "automatically crafting instructions from a curated medical network to steer a chatbot's answers",
+  "gold": [
+   "https://openalex.org/W4402567773"
+  ]
+ },
+ {
+  "id": "S08",
+  "type": "semantic",
+  "query": "why generated text drifts away from truth, and what structured resources can do about it",
+  "gold": [
+   "https://openalex.org/W4405740130"
+  ]
+ },
+ {
+  "id": "S09",
+  "type": "semantic",
+  "query": "using a programming-oriented text model to extract entities and relations without a predefined schema",
+  "gold": [
+   "https://openalex.org/W4391681328"
+  ]
+ },
+ {
+  "id": "S10",
+  "type": "semantic",
+  "query": "a clinical QA pipeline that combines a chatbot with a curated disease network",
+  "gold": [
+   "https://openalex.org/W4285020859"
+  ]
+ },
+ {
+  "id": "S11",
+  "type": "semantic",
+  "query": "whether text generators can infer cause and effect relationships, and what that enables downstream",
+  "gold": [
+   "https://openalex.org/W4367692219"
+  ]
+ },
+ {
+  "id": "S12",
+  "type": "semantic",
+  "query": "a materials science assistant built from several cooperating agents plus an ontology-backed knowledge organizer",
+  "gold": [
+   "https://openalex.org/W4390824394"
+  ]
+ },
+ {
+  "id": "S13",
+  "type": "semantic",
+  "query": "can text generators substitute for or assist message passing on networked data",
+  "gold": [
+   "https://openalex.org/W4393277515"
+  ]
+ },
+ {
+  "id": "S14",
+  "type": "semantic",
+  "query": "an aircraft maintenance troubleshooting assistant backed by a curated structured repository",
+  "gold": [
+   "https://openalex.org/W4392607872"
+  ]
+ },
+ {
+  "id": "S15",
+  "type": "semantic",
+  "query": "predicting a patient's condition by feeding a clinical network into a text model",
+  "gold": [
+   "https://openalex.org/W4404138521"
+  ]
+ },
+ {
+  "id": "S16",
+  "type": "semantic",
+  "query": "how performance of learned models varies with the amount of training data in the chemical domain",
+  "gold": [
+   "https://openalex.org/W4387874094"
+  ]
+ },
+ {
+  "id": "S17",
+  "type": "semantic",
+  "query": "a robot that builds a changing spatial map from captions in order to locate objects",
+  "gold": [
+   "https://openalex.org/W4392866655"
+  ]
+ },
+ {
+  "id": "S18",
+  "type": "semantic",
+  "query": "spotting manipulative referencing behaviour using learned representations of a citation network",
+  "gold": [
+   "https://openalex.org/W4210988752"
+  ]
+ },
+ {
+  "id": "S19",
+  "type": "semantic",
+  "query": "a review tracing the evolution of very large pretrained architectures across different modalities",
+  "gold": [
+   "https://openalex.org/W4321472314"
+  ]
+ },
+ {
+  "id": "S20",
+  "type": "semantic",
+  "query": "showing that autoregressive text architectures can capture the distribution of chemical graphs",
+  "gold": [
+   "https://openalex.org/W4281619372"
+  ]
+ },
+ {
+  "id": "C01",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Aware Language Modeling\"?",
+  "gold": [
+   "https://openalex.org/W4406128867",
+   "https://openalex.org/W4408013061",
+   "https://openalex.org/W4409726361",
+   "https://openalex.org/W4412161914",
+   "https://openalex.org/W4412465717",
+   "https://openalex.org/W4413418658"
+  ]
+ },
+ {
+  "id": "C02",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"KnowledgeNavigator: leveraging large language models for enhanced reasoning over knowledge graph\"?",
+  "gold": [
+   "https://openalex.org/W4404688293",
+   "https://openalex.org/W4407596815",
+   "https://openalex.org/W4409316345"
+  ]
+ },
+ {
+  "id": "C03",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"X-LoRA: Mixture of low-rank adapter experts, a flexible framework for large language models with applications in protein mechanics and molecular design\"?",
+  "gold": [
+   "https://openalex.org/W4404708476",
+   "https://openalex.org/W4410374120",
+   "https://openalex.org/W4411023341",
+   "https://openalex.org/W4411149009"
+  ]
+ },
+ {
+  "id": "C04",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly\"?",
+  "gold": [
+   "https://openalex.org/W4403680948",
+   "https://openalex.org/W4409316345",
+   "https://openalex.org/W4409726361",
+   "https://openalex.org/W4412161914",
+   "https://openalex.org/W4412465717"
+  ]
+ },
+ {
+  "id": "C05",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Exploring the Potential of Large Language Models (LLMs)in Learning on Graphs\"?",
+  "gold": [
+   "https://openalex.org/W4387560121",
+   "https://openalex.org/W4402813529",
+   "https://openalex.org/W4402915290",
+   "https://openalex.org/W4404125323",
+   "https://openalex.org/W4408183463",
+   "https://openalex.org/W4409010179",
+   "https://openalex.org/W4409634738",
+   "https://openalex.org/W4410120638",
+   "https://openalex.org/W4412999927",
+   "https://openalex.org/W4416379250",
+   "https://openalex.org/W7129489580"
+  ]
+ },
+ {
+  "id": "C06",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"MechGPT, a Language-Based Strategy for Mechanics and Materials Modeling That Connects Knowledge Across Scales, Disciplines, and Modalities\"?",
+  "gold": [
+   "https://openalex.org/W4390824394",
+   "https://openalex.org/W4398777692",
+   "https://openalex.org/W4401722919",
+   "https://openalex.org/W4404708476",
+   "https://openalex.org/W4410374120"
+  ]
+ },
+ {
+  "id": "C07",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Graph retrieval augmented large language models for facial phenotype associated rare genetic disease\"?",
+  "gold": [
+   "https://openalex.org/W4416718508",
+   "https://openalex.org/W7164392013"
+  ]
+ },
+ {
+  "id": "C08",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Generative Retrieval-Augmented Ontologic Graph and Multiagent Strategies for Interpretive Large Language Model-Based Materials Design\"?",
+  "gold": [
+   "https://openalex.org/W4398777692",
+   "https://openalex.org/W4401722919",
+   "https://openalex.org/W4413472998",
+   "https://openalex.org/W4415966790"
+  ]
+ },
+ {
+  "id": "C09",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models\"?",
+  "gold": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4399790320"
+  ]
+ },
+ {
+  "id": "C10",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Graph Retrieval-Augmented Generation: A Survey\"?",
+  "gold": [
+   "https://openalex.org/W4412452924",
+   "https://openalex.org/W4412465717",
+   "https://openalex.org/W7169763511"
+  ]
+ },
+ {
+  "id": "C11",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models\"?",
+  "gold": [
+   "https://openalex.org/W4406783055",
+   "https://openalex.org/W4414925442",
+   "https://openalex.org/W4415400381",
+   "https://openalex.org/W4416354085"
+  ]
+ },
+ {
+  "id": "C12",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning\"?",
+  "gold": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4406098046",
+   "https://openalex.org/W4412465717"
+  ]
+ },
+ {
+  "id": "C13",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Biomedical knowledge graph-optimized prompt generation for large language models\"?",
+  "gold": [
+   "https://openalex.org/W4405288416",
+   "https://openalex.org/W4414925442",
+   "https://openalex.org/W4415400381",
+   "https://openalex.org/W4417160556"
+  ]
+ },
+ {
+  "id": "C14",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Large Language Models for Link Stealing Attacks Against Graph Neural Networks\"?",
+  "gold": [
+   "https://openalex.org/W4410120638",
+   "https://openalex.org/W4412567559"
+  ]
+ },
+ {
+  "id": "C15",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"A medical question answering system using large language models and knowledge graphs\"?",
+  "gold": [
+   "https://openalex.org/W4395049441",
+   "https://openalex.org/W4407856367",
+   "https://openalex.org/W4412465717"
+  ]
+ },
+ {
+  "id": "C16",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"GraphGPT: Graph Instruction Tuning for Large Language Models\"?",
+  "gold": [
+   "https://openalex.org/W4399790320",
+   "https://openalex.org/W4410120638"
+  ]
+ },
+ {
+  "id": "C17",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"End-to-End Protein Normal Mode Frequency Predictions Using Language and Graph Models and Application to Sonification\"?",
+  "gold": [
+   "https://openalex.org/W4386250621",
+   "https://openalex.org/W4390824394"
+  ]
+ },
+ {
+  "id": "C18",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph\"?",
+  "gold": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4406098046",
+   "https://openalex.org/W4416364791"
+  ]
+ },
+ {
+  "id": "C19",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Knowledge graph enhanced retrieval-augmented generation for failure mode and effects analysis\"?",
+  "gold": [
+   "https://openalex.org/W4409316345",
+   "https://openalex.org/W4410600121",
+   "https://openalex.org/W4411644483",
+   "https://openalex.org/W7133964346"
+  ]
+ },
+ {
+  "id": "C20",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering\"?",
+  "gold": [
+   "https://openalex.org/W4403484624",
+   "https://openalex.org/W4410741869"
+  ]
+ },
+ {
+  "id": "C21",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Complex Logical Reasoning over Knowledge Graphs using Large Language Models\"?",
+  "gold": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4408046274"
+  ]
+ },
+ {
+  "id": "C22",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"A Survey of Knowledge Enhanced Pre-Trained Language Models\"?",
+  "gold": [
+   "https://openalex.org/W4390692489",
+   "https://openalex.org/W4391407054",
+   "https://openalex.org/W4400033035",
+   "https://openalex.org/W4406692880",
+   "https://openalex.org/W4410120638"
+  ]
+ },
+ {
+  "id": "C23",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Making Large Language Models Perform Better in Knowledge Graph Completion\"?",
+  "gold": [
+   "https://openalex.org/W4399790320",
+   "https://openalex.org/W4400262563",
+   "https://openalex.org/W4406692880",
+   "https://openalex.org/W4409634738"
+  ]
+ },
+ {
+  "id": "C24",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Unifying Large Language Models and Knowledge Graphs: A Roadmap\"?",
+  "gold": [
+   "https://openalex.org/W4392607872",
+   "https://openalex.org/W4399790320",
+   "https://openalex.org/W4401540959",
+   "https://openalex.org/W4401979966",
+   "https://openalex.org/W4402915290",
+   "https://openalex.org/W4403680948",
+   "https://openalex.org/W4403749687",
+   "https://openalex.org/W4404138521",
+   "https://openalex.org/W4405740130",
+   "https://openalex.org/W4406098046",
+   "https://openalex.org/W4407596815",
+   "https://openalex.org/W4407761215",
+   "https://openalex.org/W4407855931",
+   "https://openalex.org/W4407856367",
+   "https://openalex.org/W4407953340",
+   "https://openalex.org/W4408046274",
+   "https://openalex.org/W4408183463",
+   "https://openalex.org/W4408184619",
+   "https://openalex.org/W4409386825",
+   "https://openalex.org/W4409634738",
+   "https://openalex.org/W4409640658",
+   "https://openalex.org/W4409841284",
+   "https://openalex.org/W4410600121",
+   "https://openalex.org/W4410741869",
+   "https://openalex.org/W4411023341",
+   "https://openalex.org/W4412161914",
+   "https://openalex.org/W4412452924",
+   "https://openalex.org/W4412465717",
+   "https://openalex.org/W4413418658",
+   "https://openalex.org/W4416354085",
+   "https://openalex.org/W4416379250",
+   "https://openalex.org/W7129489580",
+   "https://openalex.org/W7143536450",
+   "https://openalex.org/W7169763511"
+  ]
+ },
+ {
+  "id": "C25",
+  "type": "citation",
+  "query": "Which papers cite the work titled \"Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning\"?",
+  "gold": [
+   "https://openalex.org/W4404708476",
+   "https://openalex.org/W4410374120",
+   "https://openalex.org/W4413472998",
+   "https://openalex.org/W4415966790"
+  ]
+ }
+]

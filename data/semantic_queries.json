@@ -1,0 +1,102 @@
+[
+  {
+    "id": "S01",
+    "query": "a position paper charting where research should go in merging structured knowledge bases with neural language models",
+    "gold": "W4390692489"
+  },
+  {
+    "id": "S02",
+    "query": "a system that plugs an external fact store into a text generator so its outputs stay grounded in verified facts",
+    "gold": "W4391407054"
+  },
+  {
+    "id": "S03",
+    "query": "an overview of models that fuse external structured information into pretrained text encoders",
+    "gold": "W4386275705"
+  },
+  {
+    "id": "S04",
+    "query": "revisiting how self-supervised objectives should be designed for message-passing networks over chemical structures",
+    "gold": "W4365455552"
+  },
+  {
+    "id": "S05",
+    "query": "a literature review covering methods that add relational structure into the evidence selection step of a generator",
+    "gold": "W4416379250"
+  },
+  {
+    "id": "S06",
+    "query": "an overview of work applying text-based models to problems defined over networked data",
+    "gold": "W4402915290"
+  },
+  {
+    "id": "S07",
+    "query": "automatically crafting instructions from a curated medical network to steer a chatbot's answers",
+    "gold": "W4402567773"
+  },
+  {
+    "id": "S08",
+    "query": "why generated text drifts away from truth, and what structured resources can do about it",
+    "gold": "W4405740130"
+  },
+  {
+    "id": "S09",
+    "query": "using a programming-oriented text model to extract entities and relations without a predefined schema",
+    "gold": "W4391681328"
+  },
+  {
+    "id": "S10",
+    "query": "a clinical QA pipeline that combines a chatbot with a curated disease network",
+    "gold": "W4285020859"
+  },
+  {
+    "id": "S11",
+    "query": "whether text generators can infer cause and effect relationships, and what that enables downstream",
+    "gold": "W4367692219"
+  },
+  {
+    "id": "S12",
+    "query": "a materials science assistant built from several cooperating agents plus an ontology-backed knowledge organizer",
+    "gold": "W4390824394"
+  },
+  {
+    "id": "S13",
+    "query": "can text generators substitute for or assist message passing on networked data",
+    "gold": "W4393277515"
+  },
+  {
+    "id": "S14",
+    "query": "an aircraft maintenance troubleshooting assistant backed by a curated structured repository",
+    "gold": "W4392607872"
+  },
+  {
+    "id": "S15",
+    "query": "predicting a patient's condition by feeding a clinical network into a text model",
+    "gold": "W4404138521"
+  },
+  {
+    "id": "S16",
+    "query": "how performance of learned models varies with the amount of training data in the chemical domain",
+    "gold": "W4387874094"
+  },
+  {
+    "id": "S17",
+    "query": "a robot that builds a changing spatial map from captions in order to locate objects",
+    "gold": "W4392866655"
+  },
+  {
+    "id": "S18",
+    "query": "spotting manipulative referencing behaviour using learned representations of a citation network",
+    "gold": "W4210988752"
+  },
+  {
+    "id": "S19",
+    "query": "a review tracing the evolution of very large pretrained architectures across different modalities",
+    "gold": "W4321472314"
+  },
+  {
+    "id": "S20",
+    "query": "showing that autoregressive text architectures can capture the distribution of chemical graphs",
+    "gold": "W4281619372"
+  }
+]
