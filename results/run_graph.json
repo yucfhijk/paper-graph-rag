@@ -846,14 +846,14 @@
   ],
   "top10": [
    "https://openalex.org/W4414925442",
-   "https://openalex.org/W4416354085",
    "https://openalex.org/W4415400381",
+   "https://openalex.org/W4416354085",
    "https://openalex.org/W4406783055"
   ],
   "top10_titles": [
    "MEGA-RAG: a retrieval-augmented generation framework with multi-evidence guided answer refinement for mitigating hallucinations of LLMs in public health",
-   "Knowledge graph-extended retrieval augmented generation for question answering",
    "Improving Large Language Model Applications in the Medical and Nursing Domains With Retrieval-Augmented Generation: Scoping Review",
+   "Knowledge graph-extended retrieval augmented generation for question answering",
    "ESCARGOT: an AI agent leveraging large language models, dynamic graph of thoughts, and biomedical knowledge graphs for enhanced reasoning"
   ]
  },

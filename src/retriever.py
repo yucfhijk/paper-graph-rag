@@ -21,7 +21,10 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import norm_title  # noqa: E402
 
-sys.stdout.reconfigure(encoding="utf-8")
+try:
+    sys.stdout.reconfigure(encoding="utf-8")   # Windows 控制台默认 GBK，不设会乱码
+except AttributeError:
+    pass   # Jupyter 的 stdout 是 ipykernel.iostream.OutStream，没有 reconfigure
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -79,9 +82,11 @@ class GraphRetriever:
             for r in w["referenced_works"]:
                 if r in corpus.inside:
                     self.in_edges.setdefault(r, []).append(w["id"])
-        # 入边按被引量降序，让影响力大的论文排在前面
+        # 入边按被引量降序；被引量相同时用 doc_id 兜底做 tie-breaker ——
+        # in_edges 是 list（顺序由 corpus.works 决定），但排序键必须全序，
+        # 否则同分项的相对顺序不稳定，逐题明细 run_*.json 会跨进程漂移。
         for k in self.in_edges:
-            self.in_edges[k].sort(key=lambda i: -corpus.cited.get(i, 0))
+            self.in_edges[k].sort(key=lambda i: (-corpus.cited.get(i, 0), i))
 
     def search(self, query, k=10):
         m = re.search(r'"(.+?)"', query)
@@ -91,7 +96,10 @@ class GraphRetriever:
         if not ids:
             return []
         hit = {d for wid in ids for d in self.in_edges.get(wid, [])}
-        return sorted(hit, key=lambda i: -self.corpus.cited.get(i, 0))[:k]
+        # hit 是 set，迭代顺序受字符串 hash 随机化影响（每个进程都不同）。
+        # 所以排序键必须是全序：被引量相同时用 doc_id 兜底，
+        # 否则同分论文的相对顺序会漂移，run_*.json 每次跑都不一样。
+        return sorted(hit, key=lambda i: (-self.corpus.cited.get(i, 0), i))[:k]
 
     def neighbors(self, seed_ids, k=10):
         """把种子论文的引用邻居并入候选（供后续混合检索使用）。"""

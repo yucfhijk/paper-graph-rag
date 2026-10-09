@@ -19,7 +19,10 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-sys.stdout.reconfigure(encoding="utf-8")
+try:
+    sys.stdout.reconfigure(encoding="utf-8")   # Windows 控制台默认 GBK，不设会乱码
+except AttributeError:
+    pass   # Jupyter 的 stdout 是 ipykernel.iostream.OutStream，没有 reconfigure
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw" / "works_raw.json"

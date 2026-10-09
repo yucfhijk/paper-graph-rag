@@ -28,7 +28,10 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import norm_title  # noqa: E402
 
-sys.stdout.reconfigure(encoding="utf-8")
+try:
+    sys.stdout.reconfigure(encoding="utf-8")   # Windows 控制台默认 GBK，不设会乱码
+except AttributeError:
+    pass   # Jupyter 的 stdout 是 ipykernel.iostream.OutStream，没有 reconfigure
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "raw"
